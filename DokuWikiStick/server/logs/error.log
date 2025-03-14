@@ -1,0 +1,32 @@
+[Wed Mar 12 16:18:37.148620 2025] [mpm_winnt:notice] [pid 9512:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 16:18:37.148620 2025] [mpm_winnt:notice] [pid 9512:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 16:18:37.148620 2025] [core:notice] [pid 9512:tid 444] AH00094: Command line: 'mapache.exe -d C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/server'
+[Wed Mar 12 16:18:37.157164 2025] [mpm_winnt:notice] [pid 9512:tid 444] AH00418: Parent: Created child process 30112
+[Wed Mar 12 16:18:38.078808 2025] [mpm_winnt:notice] [pid 30112:tid 440] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 12 16:18:44.073365 2025] [authz_core:error] [pid 30112:tid 856] [client ::1:53931] AH01630: client denied by server configuration: C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Wed Mar 12 16:21:55.115332 2025] [authz_core:error] [pid 30112:tid 868] [client ::1:53996] AH01630: client denied by server configuration: C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Wed Mar 12 16:32:43.592344 2025] [authz_core:error] [pid 30112:tid 868] [client ::1:54609] AH01630: client denied by server configuration: C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sidebar&do=admin
+[Wed Mar 12 16:38:07.705684 2025] [authz_core:error] [pid 30112:tid 868] [client ::1:54753] AH01630: client denied by server configuration: C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Mar 12 17:12:59.057919 2025] [authz_core:error] [pid 30112:tid 860] [client ::1:55811] AH01630: client denied by server configuration: C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sidebar:categories:data_management:cloud_storage&do=admin
+[Wed Mar 12 17:56:12.326297 2025] [core:warn] [pid 29120:tid 448] AH00098: pid file C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 12 17:56:12.524027 2025] [mpm_winnt:notice] [pid 29120:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 17:56:12.524027 2025] [mpm_winnt:notice] [pid 29120:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 17:56:12.524027 2025] [core:notice] [pid 29120:tid 448] AH00094: Command line: 'mapache.exe -d C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/server'
+[Wed Mar 12 17:56:12.524027 2025] [mpm_winnt:notice] [pid 29120:tid 448] AH00418: Parent: Created child process 3644
+[Wed Mar 12 17:56:12.911079 2025] [mpm_winnt:notice] [pid 3644:tid 440] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 13:55:34.383578 2025] [core:warn] [pid 31240:tid 448] AH00098: pid file C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 13 13:55:36.548869 2025] [mpm_winnt:notice] [pid 31240:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 13 13:55:36.548869 2025] [mpm_winnt:notice] [pid 31240:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 13 13:55:36.548869 2025] [core:notice] [pid 31240:tid 448] AH00094: Command line: 'mapache.exe -d C:/Paragon/dokuwiki-eae9f0a4709f769d6cfae01ec5347346/DokuWikiStick/server'
+[Thu Mar 13 13:55:36.551744 2025] [mpm_winnt:notice] [pid 31240:tid 448] AH00418: Parent: Created child process 16428
+[Thu Mar 13 13:55:36.920942 2025] [mpm_winnt:notice] [pid 16428:tid 440] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 20:18:18.990740 2025] [core:warn] [pid 17116:tid 464] AH00098: pid file C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 13 20:18:22.776000 2025] [mpm_winnt:notice] [pid 17116:tid 464] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 13 20:18:22.776000 2025] [mpm_winnt:notice] [pid 17116:tid 464] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 13 20:18:22.776000 2025] [core:notice] [pid 17116:tid 464] AH00094: Command line: 'mapache.exe -d C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/server'
+[Thu Mar 13 20:18:22.784415 2025] [mpm_winnt:notice] [pid 17116:tid 464] AH00418: Parent: Created child process 35860
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 35860:tid 444] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 20:19:05.651567 2025] [mpm_winnt:notice] [pid 17116:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 13 20:19:07.662569 2025] [mpm_winnt:notice] [pid 35860:tid 444] AH00364: Child: All worker threads have exited.
+[Thu Mar 13 20:19:07.771411 2025] [mpm_winnt:notice] [pid 17116:tid 464] AH00430: Parent: Child process 35860 exited successfully.

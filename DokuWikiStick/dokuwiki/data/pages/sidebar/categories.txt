@@ -1,0 +1,9 @@
+====== Categories ======
+
+  * [[sidebar::categories::AI/Emerging Technologies]]
+  * [[sidebar::categories::Software]]
+  * [[sidebar::categories::Data Management]]
+  * [[sidebar::categories::Security]]
+  * [[sidebar::categories::Ethics]]
+  * [[sidebar::categories::Compliance]]
+

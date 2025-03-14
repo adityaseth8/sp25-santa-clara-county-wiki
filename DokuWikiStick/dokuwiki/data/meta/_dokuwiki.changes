@@ -1,0 +1,35 @@
+1741821877	::1	C	start	admin	created		39
+1741822094	::1	E	start	admin	Home Page Sections		32
+1741822679	::1	C	sidebar	admin	created		9
+1741823273	::1	E	sidebar	admin			33
+1741823282	::1	E	sidebar	admin			2
+1741823429	::1	C	ai_and_emerging_technologies	admin	created		126
+1741823472	::1	C	artificial_general_intelligence	admin	created		186
+1741823508	::1	E	ai_and_emerging_technologies	admin			30
+1741823525	::1	C	ai_and_emerging_technologies:large_language_models_llm	admin	created		104
+1741823716	::1	E	sidebar	admin			0
+1741823743	::1	D	ai_and_emerging_technologies	admin	removed		-156
+1741823754	::1	D	artificial_general_intelligence	admin	removed		-186
+1741823769	::1	D	playground:playground	admin	removed		-25
+1741823811	::1	E	sidebar	admin			-9
+1741823829	::1	D	ai_and_emerging_technologies:large_language_models_llm	admin	removed		-104
+1741823923	::1	C	sidebar:categories	admin	created		194
+1741823946	::1	D	sidebar	admin	removed		-35
+1741824037	::1	C	sidebar:categories:ai_emerging_technologies	admin	created		67
+1741824048	::1	C	sidebar:categories:agi	admin	created		3
+1741824066	::1	D	sidebar:categories:agi	admin	removed		-3
+1741824111	::1	E	sidebar:categories:ai_emerging_technologies	admin			4
+1741824127	::1	C	sidebar:categories:agi	admin	created		3
+1741824196	::1	E	sidebar:categories:ai_emerging_technologies	admin			-2
+1741824222	::1	E	sidebar:categories:ai_emerging_technologies	admin			50
+1741824245	::1	C	sidebar:categories:ai_emerging_technologies:agi	admin	created		50
+1741824259	::1	D	sidebar:categories:agi	admin	removed		-3
+1741824278	::1	C	sidebar:categories:ai_emerging_technologies:llm	admin	created		40
+1741824506	::1	E	sidebar:categories	admin			84
+1741824581	::1	C	sidebar:categories:data_management	admin	created		120
+1741824764	::1	C	sidebar:categories:data_management:cloud_storage	admin	created		1030
+1741825762	::1	E	start	admin			1163
+1741830646	127.0.0.1	E	sidebar:categories:ai_emerging_technologies:agi	admin			1607
+1741831592	127.0.0.1	C	sidebar:categories:ai_emerging_technologies:ai	admin	created		478
+1741832250	127.0.0.1	E	sidebar:categories:ai_emerging_technologies:agi	admin			97
+1741832882	127.0.0.1	E	sidebar:categories:ai_emerging_technologies:agi	admin	cleaned up table		-37

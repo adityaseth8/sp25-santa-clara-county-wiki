@@ -1,0 +1,24 @@
+===== Artificial General Intelligence (AGI) ======
+
+| Last Edited        | March 12, 2025                                                         |
+| First Published          | March 12, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::AI/Emerging Technologies]], [[sidebar::categories::AI/Emerging Technologies::AI]] | 
+
+== Overview ==
+
+Artificial General Intelligence (AGI) refers to AI that can understand, learn, and apply knowledge similar to human-like intelligence. Simply put, AGI can perform any intellectual task that a human can do. AGI systems would be capable of generalizing knowledge and transferring skills across different domains without needing task-specific programming.
+
+== AGI vs AI == 
+While AI systems are designed to do specific tasks in one area like recognizing faces or detecting fraudulent payments, AGI is capable of doing tasks in multiple areas, much like a human. 
+
+For example, an AI model that detects fraudulent payments can't translate languages. However, an AGI system could use its general skills to do both tasks. For instance, an AGI that understands language could translate text, provide customer support, or generate documents, depending on what it needs to do. This is because AGI can apply its language knowledge across different areas, just like a human would.
+
+== How it is Used ==
+Currently, AGI does not exist. There are ongoing efforts by researchers to develop AGI.
+
+== Resources == 
+https://aws.amazon.com/what-is/artificial-general-intelligence/ \\ 
+https://www.brookings.edu/articles/how-close-are-we-to-ai-that-surpasses-human-intelligence/
+
+
