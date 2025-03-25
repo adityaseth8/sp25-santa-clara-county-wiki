@@ -30,13 +30,14 @@ To install plugins:
 #### Interesting Plugins for Future Installation:
  - [Statistics Plugin](https://www.dokuwiki.org/plugin:statistics): This plugin allows the wiki administrators to track the wiki traffic, such as the number of views of each page, number of visitors, average session length, etc. Administrators could use this information to determine what aspects of the wiki to better develop, etc. User needs. Our Paragon team has opted not to implement this plugin yet because it requires a MySQL database. We believe it would be best for the County of Santa Clara to implement this plugin using a MySQL database in the County's own private Azure environment.
  - [AI Chat Plugin](https://www.dokuwiki.org/plugin:aichat): This plugin allows users to chat with an LLM of the admin's choice regarding the content on the wiki. The chatbot has the context of whatever content is on the wiki pages so that the chatbot responses to user questions are tailored to that context. The County can experiment with different types of API keys for the LLM, such as OpenAI, Google Gemini, Groq, and more. We recommend exploring using local LLM models like Ollama 3.7 8b because local LLMs provide complete control over data flow and storage, significantly reducing the risk of external breaches.
- - [DeepL Autotranslate Plugin](https://www.dokuwiki.org/plugin:deeplautotranslate): This plugin uses the DeepL API to automatically translate a wiki page to another language, improving accessibility for public wiki viewers
+ - [DeepL Autotranslate Plugin](https://www.dokuwiki.org/plugin:deeplautotranslate): This plugin uses the DeepL API to automatically translate a wiki page to another language, improving accessibility for public wiki viewers. Using DeepL may cost some money.
 
-### Access Control Lists (ACL)
+### General Maintenance
+#### Access Control Lists (ACL)
+Wiki administrators can restrict access to certain pages using the ACL. This feature can help configure the wiki so that pages containing sensitive internal county information are restricted to county employees, while general pages remain accessible to the public. Full details for ACLs can be viewed [here](https://www.dokuwiki.org/acl).
 
+#### Wiki Hosting Platform
+We recommend the County of Santa Clara host this wiki on Azure or any other internal county resource.
 
-Host - Azure
-
-
-Security Notes:
-https://www.dokuwiki.org/security
+#### Resources
+[Security Notes](https://www.dokuwiki.org/security)
