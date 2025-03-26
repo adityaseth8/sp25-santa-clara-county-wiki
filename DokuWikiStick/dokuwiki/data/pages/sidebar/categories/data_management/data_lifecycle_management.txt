@@ -1,0 +1,26 @@
+===== Data Lifecycle Management ======
+
+| Last Edited        | March 25, 2025                                                      |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::data_management| Data Management]], | 
+
+== Overview ==
+Defines a series of stages that data goes through from its creation to its eventual archival or deletion, typically involving data storage, processing, analysis, interpretation. The county may use this system to manage data such as property records, voting records, social services data, and more.
+
+== Step 1: Data Generation & Collection ==
+The process of creating and gathering data from various sources for further processing and analysis. The County generates and collects various types of data, such as financial records, property information, images, and communication records, from both internal county sources and external sources such as California State and Federal Agencies. For example, the Resource Family Approval Project collects real-time data on the status of prospective foster parents and caregiver applications, along with their compliance with mandatory training.
+
+== Step 2: Data Storage ==
+
+See Cloud Storage
+
+== Step 3: Data Processing ==
+Data is transformed, cleaned, and analyzed to uncover business insights.
+
+== Step 4: Data Management ==
+
+== Step 5: Data Analysis & Interpretation ==
+
+== Step 6: Data Destruction ==
+

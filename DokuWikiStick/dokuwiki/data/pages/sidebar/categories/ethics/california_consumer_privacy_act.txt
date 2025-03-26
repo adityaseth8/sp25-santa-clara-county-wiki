@@ -1,0 +1,9 @@
+===== California Consumer Privacy Act ======
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::Ethics]], [[sidebar::categories:Compliance]] | 
+
+== Overview ==
+Landmark law in 2018 that gave California consumers new privacy rights including: (1) right to know, (2) right to delete, (3) right to opt-out, and (4) right to non-discrimination.

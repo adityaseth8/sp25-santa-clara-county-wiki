@@ -1,0 +1,16 @@
+===== Microsoft Azure ======
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::Software]], [[sidebar::categories:Software::Cloud Migration]] | 
+
+
+== Overview ==
+A cloud computing platform offered by Microsoft which provides on demand delivery of IT resources such as networks, servers, computing, and storage solutions.
+
+== How it is Used ==
+The County uses Azure for a wide variety of operations, such as hosting public-facing County websites, storing databases of various County departments, setting security controls for data access, and more.
+
+== Resources ==
+https://azure.microsoft.com/en-us/products

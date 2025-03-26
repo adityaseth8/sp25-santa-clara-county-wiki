@@ -1,0 +1,9 @@
+===== Downtime =====
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::Software]] | 
+
+== Overview ==
+Period of time where a system is unavailable for its intended use.

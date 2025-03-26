@@ -1,0 +1,9 @@
+===== Patch =====
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::Software]], [[sidebar::categories::Software::bug]] | 
+
+== Overview ==
+A small software update that fixes bugs or security issues.

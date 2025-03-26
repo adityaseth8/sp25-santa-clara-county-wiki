@@ -1,0 +1,61 @@
+2025-03-26 01:02:39	C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/dokuwiki/data/media/sidebar/categories/ethics/privacy-10x10-featured.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ajax.php(224): tpl_mediaContent()
+  #8 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ajax.php(28): dokuwiki\Ajax->callMedialist()
+  #9 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\lib\exe\ajax.php(26): dokuwiki\Ajax->__construct()
+  #10 {main}
+2025-03-26 01:03:52	C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/dokuwiki/data/media/sidebar/categories/ethics/privacy-10x10-featured.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\mediamanager.php(41): tpl_mediaContent()
+  #8 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\lib\exe\mediamanager.php(130): include('...')
+  #9 {main}
+2025-03-26 01:04:00	C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/dokuwiki/data/media/sidebar/categories/ethics/privacy-10x10-featured.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ajax.php(224): tpl_mediaContent()
+  #8 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ajax.php(28): dokuwiki\Ajax->callMedialist()
+  #9 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\lib\exe\ajax.php(26): dokuwiki\Ajax->__construct()
+  #10 {main}
+2025-03-26 01:04:50	C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/dokuwiki/data/media/sidebar/categories/ethics/privacy-10x10-featured.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\mediamanager.php(41): tpl_mediaContent()
+  #8 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\lib\exe\mediamanager.php(130): include('...')
+  #9 {main}
+2025-03-26 01:05:03	C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/dokuwiki/data/media/sidebar/categories/ethics/privacy-10x10-featured.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ajax.php(224): tpl_mediaContent()
+  #8 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\Ajax.php(28): dokuwiki\Ajax->callMedialist()
+  #9 C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\lib\exe\ajax.php(26): dokuwiki\Ajax->__construct()
+  #10 {main}
+2025-03-26 01:13:07	C:\Paragon\sp25-santa-clara-county-wiki\DokuWikiStick\dokuwiki\inc\io.php(597)	E_ERROR: Maximum execution time of 30 seconds exceeded
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}

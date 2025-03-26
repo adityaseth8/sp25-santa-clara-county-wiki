@@ -1,0 +1,9 @@
+===== Capacity Planning =====
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::Software]] | 
+
+== Overview ==
+Process of estimating the resources needed to keep a service or system running smoothly.

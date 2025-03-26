@@ -30,3 +30,10 @@ pm_winnt:notice] [pid 35860:tid 444] AH00354: Child: Starting 24 worker threads.
 [Thu Mar 13 20:19:05.651567 2025] [mpm_winnt:notice] [pid 17116:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Thu Mar 13 20:19:07.662569 2025] [mpm_winnt:notice] [pid 35860:tid 444] AH00364: Child: All worker threads have exited.
 [Thu Mar 13 20:19:07.771411 2025] [mpm_winnt:notice] [pid 17116:tid 464] AH00430: Parent: Child process 35860 exited successfully.
+[Thu Mar 20 15:40:29.045257 2025] [mpm_winnt:notice] [pid 33656:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 20 15:40:29.045257 2025] [mpm_winnt:notice] [pid 33656:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 20 15:40:29.045257 2025] [core:notice] [pid 33656:tid 444] AH00094: Command line: 'mapache.exe -d C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/server'
+[Thu Mar 20 15:40:29.049325 2025] [mpm_winnt:notice] [pid 33656:tid 444] AH00418: Parent: Created child process 26960
+[Thu Mar 20 15:40:29.475291 2025] [mpm_winnt:notice] [pid 26960:tid 440] AH00354: Child: Starting 24 worker threads.
+[Mon Mar 24 10:45:45.484841 2025] [authz_core:error] [pid 26960:tid 820] [client 127.0.0.1:51994] AH01630: client denied by server configuration: C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sidebar:categories:ai_emerging_technologies:agi&do=admin
+[Mon Mar 24 10:56:37.599464 2025] [authz_core:error] [pid 26960:tid 820] [client 127.0.0.1:52780] AH01630: client denied by server configuration: C:/Paragon/sp25-santa-clara-county-wiki/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sidebar:categories:ai_emerging_technologies:agi&do=admin

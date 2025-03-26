@@ -1,0 +1,9 @@
+===== Bug =====
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::Software]] | 
+
+== Overview ==
+A flaw in a software system that prevents it from running as intended.

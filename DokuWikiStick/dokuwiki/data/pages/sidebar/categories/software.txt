@@ -1,0 +1,12 @@
+==== Software ====
+
+  * [[.:software:Bug]]
+  * [[.:software:Capacity Planning]]
+  * [[.:software:Cloud Migration]]
+  * [[.:software:Downtime]]
+  * [[.:software:Gap Analysis]]
+  * [[.:software:Microsoft Azure]]
+  * [[.:software:Open Source Software]]
+  * [[.:software:Patch]]
+  * [[.:software:Technical Debt]]
+  * [[.:software:User Acceptance Test]]

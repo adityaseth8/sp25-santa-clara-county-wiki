@@ -1,4 +1,16 @@
 ===== Data Management =====
 
-  * [[.:data_management:Data Lifecycle Management]]
   * [[.:data_management:Cloud Storage]]
+  * [[.:data_management:Database Integrity]]
+  * [[.:data_management:Data Catalog]]
+  * [[.:data_management:Data at Rest]]
+  * [[.:data_management:Data in Transit]]
+  * [[.:data_management:Data Interoperability]]
+  * [[.:data_management:Data Lifecycle Management]]
+  * [[.:data_management:Data Migration]]
+  * [[.:data_management:Data Owner]]
+  * [[.:data_management:Data Steward]]
+  * [[.:data_management:Data Synchronization]]
+  * [[.:data_management:Data Retention Policy]]
+  * [[.:data_management:Disaster Recovery]]
+  * [[.:data_management:Personally Identifiable Information (PII)]]

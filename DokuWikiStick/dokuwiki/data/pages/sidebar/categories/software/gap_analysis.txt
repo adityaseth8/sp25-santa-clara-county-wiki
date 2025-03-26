@@ -1,0 +1,16 @@
+===== Gap Analysis ======
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::Software]]| 
+
+
+== Overview ==
+A workflow in which current processes and systems are evaluated and compared to the desired outcomes. This helps identify gaps in performance, and an action plan is made to close them.
+
+== How it is Used ==
+Gap analysis is used by the county to identify inefficiencies, cost overruns, functionality, and deficiencies which need to be fixed. For example, the county used gap analysis to modernize the Enterprise Geographic Information System (GIS) Repository and Infrastructure. The analysis revealed that modernization would lead to the creation of new functionality in a more cost-effective manner. 
+
+== Resources ==
+[[https://ussm.gsa.gov/3.10/|Conduct Requirements Fit-Gap Analysis]]

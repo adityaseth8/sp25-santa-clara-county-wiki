@@ -1,19 +1,3 @@
-1741821877	::1	C	start	admin	created		39
-1741822094	::1	E	start	admin	Home Page Sections		32
-1741822679	::1	C	sidebar	admin	created		9
-1741823273	::1	E	sidebar	admin			33
-1741823282	::1	E	sidebar	admin			2
-1741823429	::1	C	ai_and_emerging_technologies	admin	created		126
-1741823472	::1	C	artificial_general_intelligence	admin	created		186
-1741823508	::1	E	ai_and_emerging_technologies	admin			30
-1741823525	::1	C	ai_and_emerging_technologies:large_language_models_llm	admin	created		104
-1741823716	::1	E	sidebar	admin			0
-1741823743	::1	D	ai_and_emerging_technologies	admin	removed		-156
-1741823754	::1	D	artificial_general_intelligence	admin	removed		-186
-1741823769	::1	D	playground:playground	admin	removed		-25
-1741823811	::1	E	sidebar	admin			-9
-1741823829	::1	D	ai_and_emerging_technologies:large_language_models_llm	admin	removed		-104
-1741823923	::1	C	sidebar:categories	admin	created		194
 1741823946	::1	D	sidebar	admin	removed		-35
 1741824037	::1	C	sidebar:categories:ai_emerging_technologies	admin	created		67
 1741824048	::1	C	sidebar:categories:agi	admin	created		3
@@ -33,3 +17,27 @@
 1741831592	127.0.0.1	C	sidebar:categories:ai_emerging_technologies:ai	admin	created		478
 1741832250	127.0.0.1	E	sidebar:categories:ai_emerging_technologies:agi	admin			97
 1741832882	127.0.0.1	E	sidebar:categories:ai_emerging_technologies:agi	admin	cleaned up table		-37
+1742838142	127.0.0.1	C	glossary	admin	created		374
+1742940530	127.0.0.1	E	sidebar:categories:ai_emerging_technologies:llm	admin			1021
+1742940713	127.0.0.1	E	sidebar:categories:data_management:cloud_storage	admin			339
+1742941077	127.0.0.1	E	sidebar:categories:data_management	admin			538
+1742945159	127.0.0.1	C	sidebar:categories:data_management:data_lifecycle_management	admin	created		1540
+1742945470	127.0.0.1	C	sidebar:categories:software	admin	created		348
+1742945684	127.0.0.1	C	sidebar:categories:software:microsoft_azure	admin	created		859
+1742945813	127.0.0.1	C	sidebar:categories:software:gap_analysis	admin	created		977
+1742948557	127.0.0.1	E	sidebar:categories:software:gap_analysis	admin			68
+1742948651	127.0.0.1	C	sidebar:categories:software:capacity_planning	admin	created		451
+1742948712	127.0.0.1	C	sidebar:categories:software:bug	admin	created		419
+1742948766	127.0.0.1	C	sidebar:categories:software:patch	admin	created		450
+1742948845	127.0.0.1	C	sidebar:categories:software:cloud_migration	admin	created		413
+1742948898	127.0.0.1	C	sidebar:categories:software:downtime	admin	created		420
+1742949018	127.0.0.1	C	sidebar:categories:software:technical_debt	admin	created		433
+1742949135	127.0.0.1	C	sidebar:categories:security	admin	created		150
+1742949378	127.0.0.1	C	sidebar:categories:ethics	admin	created		171
+1742949396	127.0.0.1	C	sidebar:categories:compliance	admin	created		175
+1742949411	127.0.0.1	E	sidebar:categories:compliance	admin			-34
+1742949498	127.0.0.1	C	sidebar:categories:ethics:california_consumer_privacy_act	admin	created		592
+1742949662	127.0.0.1	E	sidebar:categories:compliance	admin			25
+1742950661	127.0.0.1	C	sidebar:categories:ethics:privacy	admin	created		4638
+1742951193	127.0.0.1	E	sidebar:categories:ethics:privacy	admin			322
+1742951483	127.0.0.1	E	sidebar:categories:ethics:privacy	admin			302

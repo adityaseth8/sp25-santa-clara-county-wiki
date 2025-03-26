@@ -1,6 +1,13 @@
 ===== Cloud Storage =====
 
-**Definition**: A service which allows digital data to be stored in remote servers in off-site locations. Often times, these remote servers are managed by a 3rd party cloud service provider.
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 12, 2025                                                         |
+| Updated By | Aditya Seth                    |
+| Related Terms and Categories | [[sidebar::categories::data_management|Data Management]]| 
+
+
+**Overview**: A service which allows digital data to be stored in remote servers in off-site locations. Often times, these remote servers are managed by a 3rd party cloud service provider.
 
 **How it is Used**: Used by County departments to securely store, access, and back up data relating to County operations. For example, the 2022 Aerial Imagery and 3D Point Cloud Acquisition Project used cloud storage to securely store and manage high-resolution aerial imagery datasets. These datasets help with fire and flood prevention, property assessments, and urban planning by providing an accurate digital representation of the County’s landscape. Other examples of data stored in cloud can include public records, service records, and financial data. It reduces the need for the County to set up and administer on-premise infrastructure, which reduces capital expenditures and recurring maintenance costs.
 

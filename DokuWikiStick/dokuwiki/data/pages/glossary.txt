@@ -1,0 +1,8 @@
+===== Glossary =====
+
+  - [[sidebar::categories::AI/Emerging Technologies::AI|Artificial Intelligence (AI)]]
+  - [[sidebar::categories::AI/Emerging Technologies::agi | Artificial General Intelligence (AG)]]
+  - [[sidebar::categories::AI/Emerging Technologies::llm | Large Language Models (LLM)]]
+  - [[sidebar::categories::data_management::cloud_storage | Cloud Storage]]
+
+

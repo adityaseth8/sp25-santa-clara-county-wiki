@@ -1,0 +1,61 @@
+===== Privacy =====
+
+| Last Edited        | March 25, 2025                                                         |
+| First Published          | March 25, 2025                                                         |
+| Updated By | Anne Do                |
+| Related Terms and Categories | [[sidebar::categories::Ethics]], [[sidebar::categories:Compliance]], [[sidebar::categories::Ethics::Consent]], [[sidebar::categories::Compliance::Personally Identifiable Information (PII)]], [[sidebar::categories::Compliance::Anonymization]], [[sidebar::categories::Compliance::Access Control]], [[sidebar::categories::Software::Encryption]], [[sidebar::categories::Compliance::Privacy Impact Assessment (PIA)]] | 
+
+=== Definition ===
+The right to keep personal information safe and control how it is shared.
+
+{{:sidebar:categories:ethics:privacy-10x10-featured.jpg?400|}}
+
+=== AI Risks ===
+
+== Data Breaches and Unauthorized Access ==
+AI systems often rely on vast amounts of personal data, increasing the potential for data breaches. This risk is immediate and ongoing, as cybercriminals continuously target AI-powered systems to access sensitive information.<sup>4</sup>
+
+== Surveillance and Monitoring ==
+Facial recognition and other AI-powered surveillance technologies raise concerns about privacy in public spaces. This risk is already present and likely to intensify in the coming years.<sup>4</sup>
+
+== Unintended Data Exposure ==
+Even small, proprietary AI models can inadvertently leak personal information. For example, a healthcare company's AI-powered diagnostic app might unintentionally share customer data with other users.<sup>5</sup>
+
+== Data Collection Without Consent ==
+AI systems may collect and use personal data without explicit user consent, as seen in recent controversies with social media platforms. This is an ongoing risk that is likely to persist in the medium term.<sup>5</sup>
+
+== Inference and Profiling ==
+Advanced AI analytics can infer sensitive information about individuals, even those not directly using the system. This medium-term risk could lead to privacy violations through unexpected data correlations.<sup>5</sup>
+
+=== County-Specific Information ===
+
+== County of Santa Clara Privacy Office ==
+{{ :sidebar:categories:ethics:1920x640-cityscape.jpg.webp |}}
+The Privacy Office’s mission is “to serve the County of Santa Clara by helping to ensure that privacy is safeguarded and treated with integrity and respect.” It is guided by the following Privacy Principles:<sup>6</sup>
+  -Protecting and safeguarding individuals’ fundamental right to privacy is a vital part of the County’s duties.
+  -The County seeks to maintain strict compliance with local, state, and federal privacy laws.
+  -The County recognizes that the limited and appropriate sharing of personal information between departments enables the County to provide robust, efficient, and evidence-based services and programs to the community.
+  -The County strives to balance the County’s need to collect and process personal information when providing services to the community with the County’s responsibility to safeguard personal information.
+
+The Privacy Office has created several resources on privacy topics, such as [[https://privacy.santaclaracounty.gov/scam-awareness-resources|scam awareness]] and [[https://privacy.santaclaracounty.gov/surveillance-technology|surveillance technology]], hosts occasional privacy-related events, and gathers privacy-related news.<sup>7</sup> It also informs its residents and visitors about data collection practices, collaborates with other agencies and departments on privacy governance, reviews new data systems and technologies, and participates in special projects and reports.<sup>8</sup>
+
+== Laws, Policies, & Standards ==
+The Santa Clara Privacy Office has compiled a comprehensive list of privacy laws, policies, and standards including federal and state laws, industry standards, and county ordinances and policies: [[https://privacy.santaclaracounty.gov/privacy-laws-policies-and-standards|Privacy Laws, Policies, and Standards]].
+
+{{ :sidebar:categories:ethics:5-reasons-why-data-privacy-is-important.webp |}}
+Photo from: https://matomo.org/blog/2014/01/data-privacy-day-january-28th/
+
+=== Further Reading ===
+  * Podcast: [[https://seriousprivacy.buzzsprout.com/|Serious Privacy]]
+  * [[https://www.youtube.com/watch?v=0RhCrb8OCjw&feature=youtu.be|A World Without Privacy]]
+  * Research paper: [[https://arxiv.org/abs/2007.07646|A Survey of Privacy Attacks in Machine Learning]] 
+
+
+<sup>1</sup>https://lmls.org/blogs/system/dpp2  \\
+<sup>2</sup>https://safecomputing.umich.edu/protect-privacy/history-of-privacy-timeline  \\
+<sup>3</sup>https://www.linkedin.com/pulse/history-data-privacy-timelines-samir-kumar-pmp-privacy-law-knznf/    \\
+<sup>4</sup>https://economictimes.indiatimes.com/news/how-to/ai-and-privacy-the-privacy-concerns-surrounding-ai-its-potential-impact-on-personal-data/articleshow/99738234.cms  \\
+<sup>5</sup>https://www.ibm.com/think/insights/ai-privacy  \\
+<sup>6</sup>https://privacy.santaclaracounty.gov/privacy/about-us  \\
+<sup>7</sup>https://privacy.santaclaracounty.gov/secure-your-digital-life  \\
+<sup>8</sup>https://privacy.santaclaracounty.gov/our-work  \\
