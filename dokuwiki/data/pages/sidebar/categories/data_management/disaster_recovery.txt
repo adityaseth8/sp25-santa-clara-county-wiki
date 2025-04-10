@@ -1,0 +1,10 @@
+===== Disaster Recovery =====
+
+=== Overview ===
+Restore IT systems and data due to an outage or other disruption
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Software]], [[sidebar::categories::Data Management]]
+

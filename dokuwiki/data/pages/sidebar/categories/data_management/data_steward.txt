@@ -1,0 +1,10 @@
+===== Data Steward =====
+
+=== Overview ===
+Individuals that are in charge of the day-to-day management and governance of data, including ensuring data quality and documentation.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]]
+

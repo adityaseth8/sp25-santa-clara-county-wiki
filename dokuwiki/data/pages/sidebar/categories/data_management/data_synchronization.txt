@@ -1,0 +1,12 @@
+===== Data Synchronization =====
+
+=== Overview ===
+The process of ensuring that data remains consistent and up to date across multiple systems or storage locations. It is critical for maintaining accuracy and reliability in environments where data is shared or replicated.
+
+Example: Ensuring that a local folder and its cloud backup (e.g., Dropbox) always reflect the same version of a file.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]]
+

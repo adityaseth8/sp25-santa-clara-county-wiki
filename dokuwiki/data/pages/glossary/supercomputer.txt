@@ -1,0 +1,15 @@
+===== Supercomputer =====
+
+== Overview ==
+Powerful computers that are able to model and simulate complex, dynamic systems that would be too expensive, impractical, or impossible to physically demonstrate.<sup>1</sup>
+
+
+== Related Terms ==
+
+== Related Categories ==
+[[sidebar::categories::AI/Emerging Technologies]]
+
+
+----
+<sup>1</sup> Ahn, J., Sharma, K., Berlie, A., Gong, E., Kerslake, B., Mahajan, A., Moreau, M., Nard, C., Offorjebe, U. A., Washington, V. (2024). //The Current State of U.S. Government Supercomputer Capacities and Utilization.// Paragon Policy Fellowship, 2024 Fall Cohort Energy Team.
+

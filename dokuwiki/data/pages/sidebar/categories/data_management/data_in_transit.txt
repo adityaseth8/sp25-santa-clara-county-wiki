@@ -1,0 +1,10 @@
+===== Data in Transit =====
+
+=== Overview ===
+Movement of data from one location to another via the internet or a private network.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]], [[sidebar::categories::Security]]
+

@@ -1,0 +1,86 @@
+===== Protected Class =====
+
+=== Definition ===
+A group of people that share a characteristic (i.e. race, class, gender, age) that is legally protected from discrimination originated from the characteristic.
+
+=== Brief History ===
+== Civil Rights Act of 1964 ==
+Title VII of this landmark law prohibited discrimination in employment based on race, color, religion, sex, or national origin. It also established the Equal Employment Opportunity Commission (EEOC) to enforce these protections.<sup>1</sup>
+
+== Age Discrimination in Employment Act of 1967 ==
+The Age Discrimination in Employment Act of 1967 protected workers aged 40 and older from age-based discrimination.<sup>2</sup>
+
+== Rehabilitation Act of 1973 and the Americans with Disabilities Act of 1990 ==
+The Rehabilitation Act of 1973 and the Americans with Disabilities Act of 1990 extended protections to individuals with physical or mental disabilities.<sup>3</sup>
+
+== Pregnancy Discrimination Act of 1978 ==
+The Pregnancy Discrimination Act of 1978 clarified that discrimination based on pregnancy or childbirth constitutes unlawful sex discrimination.<sup>4</sup>
+
+== Genetic Information Nondiscrimination Act of 2008 ==
+The Genetic Information Nondiscrimination Act of 2008 prohibited discrimination based on genetic information.<sup>5</sup>
+
+== Judicial Expansion ==
+In Bostock v. Clayton County (2020), the Supreme Court ruled that discrimination based on sexual orientation or gender identity is prohibited under Title VII as a form of sex discrimination.<sup>6</sup>
+
+=== AI Risks ===
+== Perpetuation and Amplification of Bias ==
+AI systems can perpetuate and even amplify existing biases, leading to discrimination against protected classes. This occurs because (1) AI is trained on historical data, which may already contain biases and underrepresentation of certain groups, and (2) algorithms can learn and replicate existing patterns of discrimination, potentially magnifying their effects.<sup>7</sup>
+
+== Lack of Transparency and Accountability ==
+The "black box" nature of AI decision-making can make it difficult to: identify the reasons behind potentially discriminatory outcomes and provide non-discriminatory explanations for employment decisions.<sup>8</sup>
+
+== Challenges in Legal Compliance ==
+Employers using AI tools remain subject to anti-discrimination laws. Federal laws like Title VII, ADEA, and ADA apply regardless of whether decisions are made by humans or AI.<sup>9</sup> Emerging state and local laws specific to AI in employment contexts add complexity to compliance efforts.<sup>10</sup>
+
+To mitigate these risks, employers should carefully select AI programs, promote accountable algorithms, and work to improve diversity in tech companies developing these tools.<sup>11</sup> Additionally, they should maintain a solid understanding of their obligations under applicable discrimination laws and regularly audit their AI systems for potential biases.<sup>12</sup>
+
+=== County-Specific Information ===
+Board Policy 3.8 - Policy Against Discrimination, Harassment, and Retaliation
+The County of Santa Clara has specific policies and protections regarding protected classes, as outlined in its Board Policy 3.8 - Policy Against Discrimination, Harassment, and Retaliation.<sup>13</sup>
+
+Protected Characteristics: The county prohibits discrimination based on race, religious belief, color, national origin, culture, ancestry, age, gender, sexual orientation, gender identity, pregnancy, marital status, disability, medical condition, political belief, and organizational affiliation.<sup>14</sup>
+
+Retaliation Prohibition: The county explicitly forbids retaliation against individuals who participate in "protected activities," such as speaking up about discrimination, filing complaints, or participating in investigations.<sup>15</sup>
+
+Responsibility: All county employees, especially agency/department heads, managers, supervisors, and leads, are responsible for preventing discrimination, harassment, and retaliation.<sup>16</sup>
+
+Complaint Process: The Equal Opportunity Division is responsible for accepting, investigating, and processing complaints related to potential violations of this policy.<sup>17</sup>
+
+Training: The county ensures that its workforce is trained to recognize discrimination, harassment, and retaliation.<sup>18</sup>
+
+Compliance: The county commits to complying with various federal and state laws, including the Civil Rights Act, the Rehabilitation Act, the Americans with Disabilities Act, and the Age Discrimination Act.<sup>19</sup>
+
+=== Related Terms ===
+
+[[sidebar::glossary::Disparate Impact]],
+ [[sidebar::glossary::Disparate Treatment]],
+ [[sidebar::glossary::Protected Activity]]
+
+=== Related Categories ===
+[[sidebar::categories::Compliance]] 
+
+=== Further Reading ===
+[[https://www.eeoc.gov/employers/small-business/3-who-protected-employment-discrimination|Who is protected from employment discrimination?]]
+
+
+----
+<sup>1</sup> [[https://www.law.cornell.edu/wex/protected_characteristic]] \\
+<sup>2</sup> [[https://www.law.cornell.edu/wex/protected_characteristic]] \\
+<sup>3</sup> [[https://www.law.cornell.edu/wex/protected_characteristic]] \\
+<sup>4</sup> [[https://www.law.cornell.edu/wex/protected_characteristic]] \\
+<sup>5</sup> [[https://www.law.cornell.edu/wex/protected_characteristic]] \\
+<sup>6</sup> [[https://www.law.cornell.edu/wex/protected_characteristic]] \\
+<sup>7</sup> [[https://www.nature.com/articles/s41599-023-02079-x]] \\
+<sup>8</sup> [[https://www.troutman.com/insights/advising-employers-as-ai-meets-dei-and-discrimination.html]] \\
+<sup>9</sup> [[https://www.troutman.com/insights/advising-employers-as-ai-meets-dei-and-discrimination.html]] \\
+<sup>10</sup> [[https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-april/navigating-ai-employment-bias-maze/]] \\
+<sup>11</sup> [[https://www.nature.com/articles/s41599-023-02079-x]] \\
+<sup>12</sup> [[https://www.troutman.com/insights/advising-employers-as-ai-meets-dei-and-discrimination.html]] \\
+<sup>13</sup> [[https://files.santaclaracounty.gov/exjcpb1501/2024-04/board-policy-3.8-policy-against-discrimination-harassment-and-retaliation.pdf?VersionId=lgxn94brZKn18TRzqds8b2rVlKpXsMGE]] \\
+<sup>14</sup> [[https://files.santaclaracounty.gov/exjcpb1501/2024-04/board-policy-3.8-policy-against-discrimination-harassment-and-retaliation.pdf?VersionId=lgxn94brZKn18TRzqds8b2rVlKpXsMGE]] \\
+<sup>15</sup> [[https://equalopp.santaclaracounty.gov/frequently-asked-questions-regarding-retaliation-violation-countys-policy-against-discrimination]] \\
+<sup>16</sup> [[https://files.santaclaracounty.gov/exjcpb1501/2024-04/board-policy-3.8-policy-against-discrimination-harassment-and-retaliation.pdf?VersionId=lgxn94brZKn18TRzqds8b2rVlKpXsMGE]] \\
+<sup>17</sup> [[https://files.santaclaracounty.gov/exjcpb1501/2024-04/board-policy-3.8-policy-against-discrimination-harassment-and-retaliation.pdf?VersionId=lgxn94brZKn18TRzqds8b2rVlKpXsMGE]] \\
+<sup>18</sup> [[https://files.santaclaracounty.gov/exjcpb1501/2024-04/board-policy-3.8-policy-against-discrimination-harassment-and-retaliation.pdf?VersionId=lgxn94brZKn18TRzqds8b2rVlKpXsMGE]] \\
+<sup>19</sup> [[https://files.santaclaracounty.gov/exjcpb1501/2024-04/board-policy-3.8-policy-against-discrimination-harassment-and-retaliation.pdf?VersionId=lgxn94brZKn18TRzqds8b2rVlKpXsMGE]] \\
+

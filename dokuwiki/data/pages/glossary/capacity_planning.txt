@@ -1,0 +1,10 @@
+===== Capacity Planning =====
+
+=== Overview ===
+Process of estimating the resources needed to keep a service or system running smoothly.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Software]]
+

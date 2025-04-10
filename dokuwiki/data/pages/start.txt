@@ -1,0 +1,34 @@
+===== County of Santa Clara Technology Dictionary ====
+
+=== Welcome ===
+Welcome to the County Technology Dictionary! This resource is designed to help government employees, policymakers, and the public understand key technology terms and their relevance to county operations.
+
+
+=== Recent Updates ===
+Here’s the 5 most recent changes:
+
+{{changes>5&render = list(signature)}}
+
+
+For the full list of changes, visit the [[dokuwiki:doku.php?id=start&do=recent|Recent Changes]] page,  or click the "Recent Changes" button at the top, below the search bar. To view the list of all changes for an individual page, click on the clock icon titled "Old Revisions", which can be found on the right hand side of the page.
+
+=== Getting Started ===
+  * Browse terms by [[sidebar::categories]] or [[glossary]].
+  * Use the **search bar** (top right) to find specific terms
+  * Click on a term to see its definition, usage in the county
+
+=== FAQ ===
+
+== 1. Who can access this dictionary? ==
+The dictionary is accessible to county employees and the public. However, some pages may be restricted based on permissions set by the admin.
+
+== 2. How can I request a new term, update to an existing term, or seek clarification about a term? ==
+Fill out the **[[https://docs.google.com/forms/d/1Exyu83OUxr6dn6WTsCbS49MVSM-4yBhXjaFOiKWewYo/edit|Technology Dictionary Feedback Form]]**, and it will be sent to the **IT Governance Team** for review.
+
+== 3. Can pages be translated into other languages? ==
+Yes, a DokuWiki plugin can be installed to support multilingual content. If a page has a translation available, a language switcher will be provided. Currently, this feature is not installed.
+
+== 4. How is spam prevented? ==
+To prevent spam, CAPTCHA is implemented for public users when signing into this wiki.
+
+

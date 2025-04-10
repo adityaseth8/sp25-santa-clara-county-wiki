@@ -1,0 +1,10 @@
+===== Deep Learning =====
+
+=== Overview ===
+Deep learning is a broad family of techniques for machine learning in which hypotheses take the form of complex algebraic circuits with tunable connection strengths. The word “deep” refers to the fact that the circuits are typically organized into many layers, which means that computation paths from inputs to outputs have many steps. Deep learning is currently the most widely used approach for applications such as visual object recognition, machine translation, speech recognition, speech synthesis, and image synthesis; it also plays a significant role in reinforcement learning applications.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::AI/Emerging Technologies]]
+

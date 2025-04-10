@@ -1,0 +1,10 @@
+===== Audit Logs =====
+
+=== Overview ===
+A chronological record of system activities, including records of system accesses and operations performed in a given period. A well-structured audit log typically includes details such as the user ID, timestamp, event type, and affected resources.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Compliance]], [[sidebar::categories::Data Management]]
+

@@ -1,0 +1,11 @@
+===== Ethics =====
+
+  * [[.:ethics:Algorithmic Bias]]
+  * [[.:ethics:California Consumer Privacy Act]]
+  * [[.:ethics:CJIS Compliance Requirements]]
+  * [[.:ethics:Consent]]
+  * [[.:ethics:Controller]]
+  * [[.:ethics:HIPAA]]
+  * [[.:ethics:Impersonation]]
+  * [[.:ethics:Privacy]]
+  * [[.:ethics:Processor]]

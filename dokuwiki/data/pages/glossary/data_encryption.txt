@@ -1,0 +1,16 @@
+===== Data Encryption =====
+
+=== Definition ===
+The process of converting data into a coded format to prevent unauthorized users from reading the data during storage or transit. Authorized users with the correct decryption key can convert the data back to its original readable form.
+
+=== How it is Used ===
+The county may use cloud services like Azure Storage Service Encryption to encrypt sensitive data like financial records, personal data, and more.
+
+=== Further Reading ===
+https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption
+
+=== Related Terms ===
+[[glossary::hashing]], [[glossary::transport layer security | Transport Layer Security (TLS)]], [[glossary::encryption algorithm | Encryption Algorithm]]
+
+=== Related Categories ===
+[[sidebar::categories::security|Security]]

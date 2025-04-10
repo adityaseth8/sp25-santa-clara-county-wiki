@@ -1,0 +1,10 @@
+=====Data at Rest=====
+
+=== Overview ===
+Data that is stored on a device or server and is not actively being used.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]], [[sidebar::categories::Security]]
+

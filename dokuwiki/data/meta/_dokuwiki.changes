@@ -1,0 +1,57 @@
+1744145317	73.235.164.232	E	start	admin			51
+1744145629	73.235.164.232	C	test:plugincheck	admin	created		39
+1744146499	73.235.164.232	D	test:plugincheck	admin	removed		-39
+1744146657	73.235.164.232	E	start	admin	Added Recent Updates embed		151
+1744146785	73.235.164.232	E	start	admin			72
+1744158080	73.235.164.232	E	glossary	admin			507
+1744158560	73.235.164.232	E	glossary	admin			1245
+1744165925	73.235.164.232	E	glossary	admin	added rest of terms		697
+1744167257	73.235.164.232	E	glossary	admin	formatted by alphabetical order		227
+1744167653	73.235.164.232	e	start	admin	updated instructions to view old revisions of a page		159
+1744167794	73.235.164.232	E	sidebar:categories:data_management:cloud_storage	admin	formatting		-245
+1744167989	73.235.164.232	E	sidebar:categories:software:microsoft_azure	admin			-247
+1744169318	73.235.164.232	C	data_encryption	admin	created		809
+1744169428	73.235.164.232	D	data_encryption	admin	removed		-809
+1744169432	73.235.164.232	C	glossary:data_encryption	admin	created		809
+1744169709	73.235.164.232	E	glossary	admin	Added data encyrption, tls, encryption algorithm, parallel processing, quantum computing, scalability, and supercomputer		451
+1744169925	73.235.164.232	C	glossary:parallel_processing	admin	created		562
+1744170095	73.235.164.232	C	glossary:quantum_computing	admin	created		564
+1744170307	73.235.164.232	C	glossary:scalability	admin	created		343
+1744170445	73.235.164.232	C	glossary:supercomputer	admin	created		304
+1744170924	73.235.164.232	C	sidebar:categories:data_management:data_at_rest	admin	created		243
+1744170972	73.235.164.232	C	sidebar:categories:data_management:data_in_transit	admin	created		259
+1744171058	73.235.164.232	C	sidebar:categories:data_management:data_migration	admin	created		722
+1744171171	73.235.164.232	C	sidebar:categories:data_management:data_retention_policy	admin	created		705
+1744171228	73.235.164.232	C	sidebar:categories:data_management:disaster_recovery	admin	created		241
+1744171262	73.235.164.232	E	sidebar:categories:data_management:data_retention_policy	admin			70
+1744171317	73.235.164.232	C	sidebar:categories:data_management:data_owner	admin	created		234
+1744171352	73.235.164.232	C	sidebar:categories:data_management:data_steward	admin	created		271
+1744171503	73.235.164.232	C	sidebar:categories:data_management:personally_identifiable_information_pii	admin	created		447
+1744171513	73.235.164.232	E	sidebar:categories:data_management:personally_identifiable_information_pii	admin			0
+1744171697	73.235.164.232	E	glossary	admin			50
+1744171835	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:llm	admin			-231
+1744171995	73.235.164.232	E	glossary	admin	added algorithm, deep learning, firmware		122
+1744172025	73.235.164.232	C	glossary:algorithm	admin	created		303
+1744172062	73.235.164.232	C	glossary:deep_learning	admin	created		748
+1744172109	73.235.164.232	C	glossary:firmware	admin	created		324
+1744172245	73.235.164.232	E	glossary	admin	added software testing, nlp, service level agreement		139
+1744172268	73.235.164.232	E	glossary	admin			2
+1744172306	73.235.164.232	E	glossary	admin			38
+1744172332	73.235.164.232	C	glossary:capacity_planning	admin	created		223
+1744172384	73.235.164.232	C	sidebar:categories:data_management:data_interoperability	admin	created		275
+1744172465	73.235.164.232	C	sidebar:categories:data_management:data_synchronization	admin	created		485
+1744172543	73.235.164.232	E	glossary	admin	added audit logs		31
+1744172663	73.235.164.232	C	glossary:audit_logs	admin	created		420
+1744172714	73.235.164.232	E	glossary	admin	added data minimization		38
+1744172784	73.235.164.232	E	glossary	admin			-5
+1744172875	73.235.164.232	C	glossary:minimization	admin	created		447
+1744227339	73.235.164.232	E	glossary:parallel_processing	admin	citation added		309
+1744227675	73.235.164.232	e	glossary:quantum_computing	admin	citation		308
+1744227753	73.235.164.232	E	glossary:scalability	admin	citation		309
+1744227794	73.235.164.232	E	glossary:supercomputer	admin	citation		310
+1744227822	73.235.164.232	E	glossary:supercomputer	admin			-1
+1744228079	73.235.164.232	E	glossary	admin	Added CPU, GPU		112
+1744230721	73.235.164.232	E	glossary:quantum_computing	admin			-3
+1744230732	73.235.164.232	E	glossary:supercomputer	admin			-4
+1744230760	73.235.164.232	E	glossary:scalability	admin			-4
+1744230771	73.235.164.232	E	glossary:parallel_processing	admin			-4

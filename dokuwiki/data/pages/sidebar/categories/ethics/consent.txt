@@ -1,0 +1,23 @@
+===== Consent =====
+
+=== Definition ===
+Clear and voluntary permission given for something to happen.
+
+=== County-Specific Information ===
+== Laws, Policies, & Standards ==
+The County of Santa Clara [[https://www.santaclaracounty.gov/privacy-policy|Website Privacy]] Policy states: “We will not share, sell, or otherwise disclose information you agree to voluntarily share while accessing County websites to third parties, except as necessary and authorized by law, or where you provide **consent** to complete a transaction you authorize, or to provide services you request. For example, we may share information among County departments and other government agencies as necessary to provide services to you and when authorized by law.”
+
+The Privacy Office has also compiled a comprehensive list of privacy laws, policies, and standards: [[https://privacy.santaclaracounty.gov/privacy-laws-policies-and-standards|Privacy Laws, Policies, and Standards]]
+
+=== Further Reading ===
+[[https://usercentrics.com/knowledge-hub/types-of-consent/|The Different Types of Consent: What you need to know]]  \\
+[[https://www.youtube.com/watch?v=2iPDpV8ojHA|Data Privacy and Consent TEDx]]
+
+=== Related Terms ===
+[[sidebar::categories::Ethics::privacy]], [[sidebar::categories::Compliance::Personally Identifiable Information (PII)]], 
+[[sidebar::categories::Compliance::data privacy]]
+[[sidebar::categories::Compliance::anonymization]], [[sidebar::categories::Compliance::access control]], [[sidebar::categories::Software::encryption]], [[sidebar::categories::Compliance::Privacy Impact Assessment (PIA)]]
+
+=== Related Categories ===
+[[sidebar::categories::Ethics]], [[sidebar::categories::Compliance]] 
+

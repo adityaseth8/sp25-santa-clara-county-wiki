@@ -1,0 +1,8 @@
+===== Firmware =====
+
+=== Overview ===
+Computer programs and data stored in hardware - typically in read-only memory (ROM) or programmable read-only memory (PROM) - such that the programs and data cannot be dynamically written or modified during execution of the programs.
+
+=== Related Terms ===
+
+=== Related Categories ===

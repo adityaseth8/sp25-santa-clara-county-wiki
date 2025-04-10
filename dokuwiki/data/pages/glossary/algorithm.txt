@@ -1,0 +1,10 @@
+===== Algorithm =====
+
+=== Overview ===
+A set of computational rules to be followed to solve a mathematical problem. More recently, the term has been adopted to refer to a process to be followed, often by a computer.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Software]]
+

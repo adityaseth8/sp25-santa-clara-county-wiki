@@ -1,0 +1,9 @@
+===== Data Migration =====
+
+=== Overview ===
+Permanently transferring data from one storage location or format to another. Data Migrations typically involve following guidelines set by federal government agencies like NIST. This involves considerations like data security, data integrity, minimization of downtime to avoid disruptions, compliance, documentation & auditing, testing & validation, and backup. Also ensuring clear communication with all stakeholders involved, including 3rd party vendors. One example is the **Migration of Web and Database Servers to Cloud** project with was completed by the Office of the Assesor.
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]]
+

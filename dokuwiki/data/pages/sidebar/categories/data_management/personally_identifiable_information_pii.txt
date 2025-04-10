@@ -1,0 +1,10 @@
+===== Personally Identifiable Information (PII) =====
+
+=== Overview ===
+Information when used alone or with other relevant data, can identify an individual. This includes first and last name, mailing address, date of birth, gender, race, religion, driver's license number, social security number, and medical records
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]], [[sidebar::categories::Compliance]]
+

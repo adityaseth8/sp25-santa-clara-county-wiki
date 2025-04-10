@@ -1,0 +1,10 @@
+===== Data Interoperability=====
+
+=== Overview ===
+Data formatted in a way which allows it be accessed, exchanged, and integrated across different systems in different organizations
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]]
+

@@ -1,0 +1,10 @@
+===== Data Owner=====
+
+=== Overview ===
+Individuals that are in charge of data security and deciding how the data should be used and shared.
+
+=== Related Terms ===
+
+=== Related Categories ===
+[[sidebar::categories::Data Management]]
+
