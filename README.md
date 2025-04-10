@@ -3,11 +3,10 @@
 ## Overview
 This wiki is a comprehensive, maintainable knowledge base of key terms, concepts, and processes relevant to the County of Santa Clara’s data infrastructure, AI initiatives, and governance policies. It is designed for non-technical stakeholders, such as in-house counsel, policymakers, and administrators, to ensure clarity in technical decision-making.
 
+This wiki can be accessed at http://134.199.238.13/dokuwiki/doku.php?id=start
 
-## Installation of Wiki
-1. Clone the repository: ```git clone https://github.com/adityaseth8/sp25-santa-clara-county-wiki.git```
-2. Launch "Run" Windows Command Script. This can be found within the DokuWikiStick folder
-3. Open a web browser and go to ```http://localhost:8800/```
+## Hosting of Wiki
+Hosting instructions via DigitalOceaan can be found [here](https://docs.google.com/document/d/1obFMou81GfjQ0WQBYjF8huOAyDt-ap9RkRfWaLI2WGM/edit?tab=t.0#heading=h.th2ib3q35nkf).
 
 ## Usage
 - Edit and manage pages using DokuWiki's built-in editor.
