@@ -1,0 +1,10 @@
+===== Data Catalog =====
+
+A document that lists all the datasets available in a department or organization. For each dataset, the catalog describes what kind of content the dataset contains, where the dataset is stored, and how it can be accessed. If a dataset is restricted in access, the data catalog will provide instructions on how to request permission to gain access.
+
+=== How it is Used ===
+Data catalogs help County employees quickly find available data, saving time and improving collaboration. Here is a public example of a data catalog: [[https://datacatalog.med.nyu.edu/|NYU Data Catalog]]
+
+=== Related Terms ===
+
+

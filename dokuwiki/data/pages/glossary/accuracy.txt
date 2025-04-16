@@ -1,0 +1,6 @@
+=====Accuracy=====
+
+A metric showing how often a model gets predictions correct. It is calculated as a percentage of the number of correct predictions to the total number of attempts. 
+
+=== Related Terms ===
+[[glossary::Precision]], [[glossary::Recall]]

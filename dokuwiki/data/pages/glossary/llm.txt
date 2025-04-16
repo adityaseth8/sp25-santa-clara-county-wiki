@@ -1,0 +1,15 @@
+===== Large Language Models (LLMs) =====
+Type of AI that can understand and create human-like text. It is trained on massive amounts of text data—like books, websites, and articles so that it can recognize patterns in how people write and talk.
+
+=== How it is Used ==
+LLMs can be classed into two types: generative or discriminatory. Generative LLMs are models that output text, such as the answer to a question or even writing an essay on a specific topic. Discriminatory LLMs are supervised learning models that usually focus on classifying text, such as determining whether a text was made by a human or AI.<sup>1</sup>
+
+Tools like ChatGPT and Microsoft Copilot are examples of LLMs. 
+
+
+=== Related Terms ===
+[[glossary::AI]], [[glossary::Generative AI]]
+
+
+----
+<sup>1</sup>[[https://airc.nist.gov/glossary/]]

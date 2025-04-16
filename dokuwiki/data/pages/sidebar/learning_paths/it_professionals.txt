@@ -1,0 +1,67 @@
+======Learning Path: IT Professionals======
+
+Welcome! This learning path is designed for County of Santa Clara professionals who are interested in learning more about key IT areas such as software, cybersecurity, and emerging technologies like AI. Please consult a Subject Matter Expert (SME) for clarification on these topics, as this wiki may not cover all necessary details.
+
+----
+
+===== Level 1: Foundational Concepts of Computing =====
+
+{{page>glossary::algorithm&firstseconly&readmore}}
+
+{{page>glossary::Parallel_Processing&firstseconly&readmore}}
+
+{{page>glossary::supercomputer&firstseconly&readmore}}
+
+{{page>glossary::Quantum_Computing&firstseconly&readmore}}
+
+{{page>glossary::Capacity_Planning&firstseconly&readmore}}
+
+{{page>glossary::Scalability&firstseconly&readmore}}
+
+===== Level 2: Software Development & Engineering =====
+
+{{page>glossary::Bug&firstseconly&readmore}}
+
+{{page>glossary::Patch&firstseconly&readmore}}
+
+{{page>glossary::Software Testing&firstseconly&readmore}}
+
+{{page>glossary::User Acceptance Test&firstseconly&readmore}}
+
+{{page>glossary::Open Source Software&firstseconly&readmore}}
+
+{{page>glossary::Gap Analysis&firstseconly&readmore}}
+
+{{page>glossary::Downtime&firstseconly&readmore}}
+
+===== Level 3: Artificial Intelligence & Machine Learning =====
+
+{{page>glossary::AI&firstseconly&readmore}}
+
+{{page>glossary::agi&firstseconly&readmore}}
+
+{{page>glossary::Generative AI&firstseconly&readmore}}
+
+{{page>glossary::llm&firstseconly&readmore}}
+
+{{page>glossary::nlp&firstseconly&readmore}}
+
+===== Level 4: Model Evaluation & Fairness =====
+
+{{page>glossary::Accuracy&firstseconly&readmore}}
+
+{{page>glossary::Precision&firstseconly&readmore}}
+
+{{page>glossary::Recall&firstseconly&readmore}}
+
+===== Level 5: IT Infrastructure =====
+
+{{page>glossary::Microsoft Azure&firstseconly&readmore}}
+
+{{page>glossary::Audit Logs&firstseconly&readmore}}
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+===== Data Owner =====
+
+Data owners define how data should be used and shared, while ensuring that all practices align with legal and organizational requirements. They determine who has permission to access, edit, or delete the data. Data owners define data governance policies and appropriate safeguards to protect data from unauthorized access or malicious activity. They are also accountable for ensuring compliance with applicable regulations, such as GDPR, HIPAA, and County-specific data policies.
+
+=== How it is Used ===
+Various departments within the County have designated Data Owners responsible for overseeing the department’s operational data. Data owners decide who can access reports, authorize data-sharing agreements, and ensure compliance with privacy regulations. It’s important to note that Data Owners do not necessarily manage the data on a daily basis. Rather, they serve in a governance and oversight role.
+
+=== Related Terms ===
+[[glossary::Data Steward]]
+
+=== Resources ===
+[[https://datagovernance.com/assigning-data-ownership/]]

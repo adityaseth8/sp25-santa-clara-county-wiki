@@ -1,0 +1,14 @@
+===== Data Steward =====
+
+A Data Steward is responsible for the day-to-day management and governance of data. They execute data governance policies set by data owners. Data Stewards make sure the data is complete, accurate, consistent, and is well documented. They also control who can access the data and how it can be used or shared, keeping it secure. Other tasks may include cleaning up messy or outdated data and organizing the data.
+
+
+=== How it is used ===
+Data Stewards help county departments keep their data accurate, organized, and secure for everyday operations and decision-making. For example, a Data Steward might make sure that all transactions with third-party vendors are recorded correctly in the system. If something is missing or doesn’t look right, they follow up to fix it and keep the data reliable.
+
+=== Related Terms ===
+[[glossary::Data Owner]]
+
+=== Resources ===
+[[https://airbyte.com/data-engineering-resources/data-owner-vs-data-steward]]
+

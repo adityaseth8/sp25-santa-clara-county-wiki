@@ -1,0 +1,26 @@
+===== Controller =====
+
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.
+
+
+=== Brief History ===
+The concept of a "data controller" originates from data protection laws, particularly the European Union's General Data Protection Regulation (GDPR). The GDPR, which came into effect in May 2018, defines a data controller as the entity that determines the purposes and means of processing personal data [1]. This definition was established to ensure accountability and transparency in data processing activities. The distinction between data controllers and data processors is crucial for assigning responsibilities and compliance obligations [2]. 
+
+=== AI Risk ===
+The integration of artificial intelligence (AI) into data processing activities introduces new risks that data controllers must manage. AI systems can pose risks related to bias, privacy, security, and accountability. For example, AI algorithms may inadvertently perpetuate biases present in training data, leading to unfair outcomes [6]. Additionally, the complexity of AI systems can make it challenging to ensure transparency and explainability, which are critical for maintaining trust and compliance with data protection regulations [5]. To address these risks, frameworks such as the NIST AI Risk Management Framework provide guidelines for identifying and mitigating AI-related risks [7].
+
+=== A Closer Look: Santa Clara County ===
+In Santa Clara County, the definition of a data controller is relevant to various public and private entities that handle personal data. For instance, the County's Human Resource Payroll System (HaRP) processes employee data, making the County a data controller for this system [3]. Additionally, job specifications and IT infrastructure management within the County involve data protection measures that align with the responsibilities of a data controller. These entities must comply with applicable data protection laws, ensuring the security and proper handling of personal data.
+
+=== Further Reading ===
+[1] [[https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors/what-are-controllers-and-processors/ | What are ‘controllers’ and ‘processors’?]]   \\
+[2] [[https://lawreview.colorado.edu/print/volume-95/data-controllers-as-data-fiduciaries-theory-definitions-burdens-of-proof/ | Data Controllers as Data Fiduciaries: Theory, Definitions & Burdens of Proof – University of Colorado]]   \\
+[3] [[https://files.santaclaracounty.gov/exjcpb1511/2024-09/esa-harp-access-to-data.pdf | ESA HaRP Access to Data, FY2008-09, Controller-Treasurer Department, County of Santa Clara]]   \\
+[4] [[https://commission.europa.eu/law/law-topic/data-protection/rules-business-and-organisations/obligations/controllerprocessor/what-data-controller-or-data-processor_en | What is a data controller or a data processor? - European Commission]] \\  
+[5] [[https://kpmg.com/us/en/articles/ai-risk-and-control-guide-gated.html | KMPG An Illustrative AI Risk and Controls Guide]]   \\
+[6] [[https://www.nist.gov/itl/ai-risk-management-framework | AI Risk Management Framework - NIST]]   \\
+[7] [[https://www.riskdatacontrol.com/role-ai-data-risk-management/ | The Role of AI in Data Risk Management and Mitigation]]   \\
+
+=== Related Terms ===
+
+

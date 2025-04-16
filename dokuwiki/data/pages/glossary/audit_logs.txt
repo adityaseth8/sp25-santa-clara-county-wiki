@@ -1,10 +1,15 @@
 ===== Audit Logs =====
 
-=== Overview ===
 A chronological record of system activities, including records of system accesses and operations performed in a given period. A well-structured audit log typically includes details such as the user ID, timestamp, event type, and affected resources.
+
+=== How it is Used ===
+Audit logs are used in systems throughout the County to track user activity, especially in applications that handle sensitive data like medical records, employee files, or financial systems. For example, audit logs can record what data was added, changed, or removed by a specific user at a specific time. This improves accountability, supports security investigations, and helps the County meet compliance requirements such as HIPAA and CJIS.
+
+=== Resources ===
+[[https://csrc.nist.gov/glossary/term/audit_log]]  \\
+[[https://aa.esp.hcai.ca.gov/docs/ConceptsGuide/1-understandingAuditLogs.html]]
 
 === Related Terms ===
 
-=== Related Categories ===
-[[sidebar::categories::Compliance]], [[sidebar::categories::Data Management]]
+
 

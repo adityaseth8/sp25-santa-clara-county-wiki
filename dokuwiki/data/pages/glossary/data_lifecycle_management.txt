@@ -1,0 +1,31 @@
+===== Data Lifecycle Management =====
+
+Defines a series of stages that data goes through from its creation to its eventual archival or deletion, typically involving data storage, processing, analysis, interpretation. 
+
+=== How it is Used ===
+The county uses the data lifecycle management system to manage a wide range of data such as property records, voting records, social services data, and more.
+
+=== Step-by-Step ===
+
+== ➤ Step 1: Data Generation & Collection ==
+The process of creating and gathering data from various sources for further processing and analysis. The County generates and collects various types of data, such as financial records, property information, images, and communication records, from both internal county sources and external sources such as California State and Federal Agencies. For example, the **Resource Family Approval Project** collects real-time data on the status of prospective foster parents and caregiver applications, along with their compliance with mandatory training.
+
+== ➤ Step 2: Data Storage ==
+After data is collected, it has to be stored securely. The County currently uses a combination of cloud-based systems and physical servers to store its data. 
+//See also: [[glossary::Cloud Storage]]//
+
+== ➤ Step 3: Data Processing ==
+Raw data is cleaned and organized so that it can be used. This involves fixing errors, removing duplicate entries, and combining it with other data. 
+
+== ➤ Step 4: Data Management ==
+Here, the clean data is kept accurate, secure, and usable. This includes setting rules to keep the data high-quality, controlling who can access the data, and more.
+
+== ➤ Step 5: Data Analysis & Interpretation ==
+When requested, the prepped data is analyzed to uncover business insights, which helps guide decision making. The results are usually shown in reports or dashboards, so they’re easy to understand.
+
+== ➤ Step 6: Data Destruction ==
+When data is not needed anymore, it can be archived or securely deleted. This reduces the County's cost on data storage.
+
+=== Related Terms ===
+[[glossary::Data in Transit]], [[glossary::Data at Rest]], [[glossary::Data Owner]], [[glossary::Data Steward]], [[glossary::Cloud Storage]], [[glossary::Data Retention Policy]]
+

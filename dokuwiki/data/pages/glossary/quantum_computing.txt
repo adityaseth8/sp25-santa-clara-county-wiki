@@ -1,12 +1,12 @@
 ===== Quantum Computing =====
 
-== Overview ==
 Quantum computing leverages quantum-mechanical principles to process information in ways that classical computers cannot. Quantum bits, or qubits, enable superpositions and entanglements, allowing quantum computers to solve specific types of problems much faster than conventional computers.<sup>1</sup> Quantum computing has the potential to revolutionize areas such as cybersecurity, financial modeling, and optimization problems.
 
-== Related Terms ==
 
-== Related Categories ==
-[[sidebar::categories::AI/Emerging Technologies]]
+=== How it is Used ===
+Currently, quantum computing is not used in the County. However, it could be used in the future to support advanced simulations for infrastructure, optimizing energy management across county buildings, and protect sensitive information using post quantum encryption.
+
+=== Related Terms ===
 
 
 ----

@@ -1,0 +1,83 @@
+===== Impersonation =====
+
+An act of pretending to be someone else and convincing the data controller that the ill-intentioned individual is the data subject.
+
+=== Brief History ===
+
+== Early Digital Era ==
+In the 1960s, computer scientist Fernando Corbat at MIT introduced the concept of usernames and passwords to keep individual files private and secure on shared mainframes.<sup>1</sup> This laid the foundation for digital identity verification.
+
+== Social Media Revolution ==
+Digital forms of ID gained widespread popularity through social media logins. Facebook and Google pioneered the idea of using social media accounts to authenticate identities on other websites, offering convenience and efficiency in managing digital identities.<sup>2</sup>
+
+==Emergence of Online Fraud ==
+As the internet and online shopping became mainstream in the 1990s, a new era of digital fraud emerged. In 1998, the US government passed the Identity Theft Assumption Deterrence Act, officially making identity theft a federal crime.<sup>3</sup>
+
+== Phishing Attacks ==
+One of the earliest forms of digital impersonation was the AOHell program in 1994, which targeted America Online (AOL) accounts. It impersonated AOL customer service to steal user passwords and create fake accounts.<sup>4</sup>
+
+== Sophisticated Scams ==
+By 2014, more advanced scams like the Dyre phishing attack emerged, resulting in millions of dollars in losses. Attackers posed as tax consultants and even used Skype calls to impersonate law enforcement officers and bank employees.<sup>5</sup>
+
+== Current Landscape ==
+Today, digital impersonation has become increasingly sophisticated, with cybercriminals exploiting various online platforms and technologies. The rise of social engineering tactics and the vast amount of personal information available online has made digital impersonation a significant cybersecurity concern.
+
+
+=== AI Risks ===
+
+== Deepfakes and Synthetic Media ==
+AI-generated synthetic media enables hyper-realistic impersonation through face-swapping and voice cloning.  
+
+Deepfake videos surged 704% in 2023, bypassing identity verification systems like facial recognition.<sup>6</sup> Scammers mimic trusted individuals (e.g., family members, executives) to execute voice-based financial fraud<sup>7</sup> ("vishing"<sup>8</sup>).
+
+== Enhanced Social Engineering ==
+AI amplifies phishing and manipulation tactics by using automated attacks and behavioral analysis.
+
+Tools like WormGPT enable mass phishing campaigns at near-zero cost<sup>9</sup>. AI scans social media profiles to identify vulnerabilities and tailor impersonation strategies<sup>10</sup>.
+
+== National Security Risks ==
+AI-generated personas facilitate state-sponsored attacks, as seen in attempted deep fake breaches of US federal agencies<sup>11</sup>.
+
+== Disinformation ==
+AI bots spread manipulated content to influence public opinion or elections<sup>12</sup>.
+
+=== County-Specific Information ===
+
+== Recent Cases and Arrests ==
+In December 2024, the Santa Clara County District Attorney's Office charged two Southern California residents with a "Pig Butchering" scam, attempting to steal over $500,000 from an elderly San Jose man<sup>13</sup>. High-tech investigators from the DA's office used online impersonation tactics to apprehend the suspects, setting up a cash drop-off in a San Jose parking lot<sup>14</sup>.
+
+== Ongoing Scams and Warnings ==
+The Santa Clara County Superior Court issued an urgent warning in December 2024 about sophisticated jury-related scams<sup>15</sup>. Scammers were impersonating court officials and law enforcement officers, using fake badge numbers and manipulated images<sup>16</sup>.
+
+The Santa Clara County District Attorney's Office, led by prosecutor Erin West, has been actively combating "pig butchering" scams, which have cost Americans billions of dollars<sup>17</sup>.
+
+=== Further Reading ===
+[[https://beinternetawesome.withgoogle.com/en_us/educators | Internet Safety Resources for Educators]]  \\
+[[https://www.astound.com/learn/internet/social-media-impersonation/ | Social Media Impersonation: How To Identify, Prevent, & Respond]]
+
+=== Related Terms ===
+[[sidebar::glossary::Phishing Scams]], 
+[[sidebar::glossary::Vishing]],
+[[sidebar::glossary::Synthetic Identify Fraud]],
+
+
+----
+
+<sup>1</sup> [[https://www.business-reporter.co.uk/technology/the-history-of-digital-identity]] \\
+<sup>2</sup> [[https://www.business-reporter.co.uk/technology/the-history-of-digital-identity]] \\
+<sup>3</sup> [[https://cyrus.app/blog/identity-theft-history-x/]] \\
+<sup>4</sup> [[https://www.hempsteadny.gov/635/Famous-Phishing-Incidents-from-History]] \\
+<sup>5</sup> [[https://www.hempsteadny.gov/635/Famous-Phishing-Incidents-from-History]] \\
+<sup>6</sup> [[https://www.iproov.com/press/new-threat-intelligence-report-exposes-impact-generative-ai-remote-identity-verification]] \\
+<sup>7</sup> [[https://enthec.com/en/risks-of-ai-in-peoples-online-safety/]] \\
+<sup>8</sup> [[https://blackcloak.io/ai-impersonation-vishing-an-overview-preventative-measures/]] \\
+<sup>9</sup> [[https://goteleport.com/about/newsroom/press-releases/ai-impersonation-hardest-cyberattack-to-defend/]]
+<sup>10</sup> [[https://enthec.com/en/risks-of-ai-in-peoples-online-safety/]] \\
+<sup>11</sup> [[https://www.weforum.org/stories/2025/01/how-ai-driven-fraud-challenges-the-global-economy-and-ways-to-combat-it/]] \\
+<sup>12</sup> [[https://enthec.com/en/risks-of-ai-in-peoples-online-safety/]] \\
+<sup>13</sup> [[https://www.sanjoseinside.com/news/high-tech-investigators-for-santa-clara-da-nab-pair-in-500k-online-scam/]] \\
+<sup>14</sup> [[https://www.sanjoseinside.com/news/high-tech-investigators-for-santa-clara-da-nab-pair-in-500k-online-scam/]] \\
+<sup>15</sup> [[https://santaclara.courts.ca.gov/news/santa-clara-county-superior-court-issues-urgent-warning-regarding-jury-scams-0]] \\
+<sup>16</sup> [[https://santaclara.courts.ca.gov/news/santa-clara-county-superior-court-issues-urgent-warning-regarding-jury-scams-0]]  \\
+<sup>17</sup> [[https://da.santaclaracounty.gov/wall-street-journal-pig-butchering-scams-cost-americans-billions-lawyer-taking-them]]
+

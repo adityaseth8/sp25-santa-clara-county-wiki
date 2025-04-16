@@ -1,0 +1,6 @@
+==== Learning Paths ====
+
+[[sidebar:learning_paths:data_management_professionals|Data Management Professionals]]  \\
+[[sidebar:learning_paths:it_professionals|IT Professionals]] \\
+[[sidebar:learning_paths:hr_professionals|HR Professionals]] \\ 
+[[sidebar:learning_paths:legal_&_compliance_teams|Legal & Compliance Teams]] \\

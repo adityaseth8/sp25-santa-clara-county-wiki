@@ -1,8 +1,9 @@
 ===== Firmware =====
 
-=== Overview ===
-Computer programs and data stored in hardware - typically in read-only memory (ROM) or programmable read-only memory (PROM) - such that the programs and data cannot be dynamically written or modified during execution of the programs.
+Computer programs and data stored in hardware - typically in read-only memory (ROM) or programmable read-only memory (PROM) - such that the programs and data cannot be dynamically written or modified during execution of the programs.<sup>1</sup>
 
-=== Related Terms ===
+=== How it is Used ===
+Firmware is used in many devices. For example, traffic signal controllers rely on firmware to manage the timing and sequencing of red, yellow, and green lights.
 
-=== Related Categories ===
+----
+<sup>1</sup>https://csrc.nist.gov/glossary/term/firmware

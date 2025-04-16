@@ -1,57 +1,250 @@
-1744145317	73.235.164.232	E	start	admin			51
-1744145629	73.235.164.232	C	test:plugincheck	admin	created		39
-1744146499	73.235.164.232	D	test:plugincheck	admin	removed		-39
-1744146657	73.235.164.232	E	start	admin	Added Recent Updates embed		151
-1744146785	73.235.164.232	E	start	admin			72
-1744158080	73.235.164.232	E	glossary	admin			507
-1744158560	73.235.164.232	E	glossary	admin			1245
-1744165925	73.235.164.232	E	glossary	admin	added rest of terms		697
-1744167257	73.235.164.232	E	glossary	admin	formatted by alphabetical order		227
-1744167653	73.235.164.232	e	start	admin	updated instructions to view old revisions of a page		159
-1744167794	73.235.164.232	E	sidebar:categories:data_management:cloud_storage	admin	formatting		-245
-1744167989	73.235.164.232	E	sidebar:categories:software:microsoft_azure	admin			-247
-1744169318	73.235.164.232	C	data_encryption	admin	created		809
-1744169428	73.235.164.232	D	data_encryption	admin	removed		-809
-1744169432	73.235.164.232	C	glossary:data_encryption	admin	created		809
-1744169709	73.235.164.232	E	glossary	admin	Added data encyrption, tls, encryption algorithm, parallel processing, quantum computing, scalability, and supercomputer		451
-1744169925	73.235.164.232	C	glossary:parallel_processing	admin	created		562
-1744170095	73.235.164.232	C	glossary:quantum_computing	admin	created		564
-1744170307	73.235.164.232	C	glossary:scalability	admin	created		343
-1744170445	73.235.164.232	C	glossary:supercomputer	admin	created		304
-1744170924	73.235.164.232	C	sidebar:categories:data_management:data_at_rest	admin	created		243
-1744170972	73.235.164.232	C	sidebar:categories:data_management:data_in_transit	admin	created		259
-1744171058	73.235.164.232	C	sidebar:categories:data_management:data_migration	admin	created		722
-1744171171	73.235.164.232	C	sidebar:categories:data_management:data_retention_policy	admin	created		705
-1744171228	73.235.164.232	C	sidebar:categories:data_management:disaster_recovery	admin	created		241
-1744171262	73.235.164.232	E	sidebar:categories:data_management:data_retention_policy	admin			70
-1744171317	73.235.164.232	C	sidebar:categories:data_management:data_owner	admin	created		234
-1744171352	73.235.164.232	C	sidebar:categories:data_management:data_steward	admin	created		271
-1744171503	73.235.164.232	C	sidebar:categories:data_management:personally_identifiable_information_pii	admin	created		447
-1744171513	73.235.164.232	E	sidebar:categories:data_management:personally_identifiable_information_pii	admin			0
-1744171697	73.235.164.232	E	glossary	admin			50
-1744171835	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:llm	admin			-231
-1744171995	73.235.164.232	E	glossary	admin	added algorithm, deep learning, firmware		122
-1744172025	73.235.164.232	C	glossary:algorithm	admin	created		303
-1744172062	73.235.164.232	C	glossary:deep_learning	admin	created		748
-1744172109	73.235.164.232	C	glossary:firmware	admin	created		324
-1744172245	73.235.164.232	E	glossary	admin	added software testing, nlp, service level agreement		139
-1744172268	73.235.164.232	E	glossary	admin			2
-1744172306	73.235.164.232	E	glossary	admin			38
-1744172332	73.235.164.232	C	glossary:capacity_planning	admin	created		223
-1744172384	73.235.164.232	C	sidebar:categories:data_management:data_interoperability	admin	created		275
-1744172465	73.235.164.232	C	sidebar:categories:data_management:data_synchronization	admin	created		485
-1744172543	73.235.164.232	E	glossary	admin	added audit logs		31
-1744172663	73.235.164.232	C	glossary:audit_logs	admin	created		420
-1744172714	73.235.164.232	E	glossary	admin	added data minimization		38
-1744172784	73.235.164.232	E	glossary	admin			-5
-1744172875	73.235.164.232	C	glossary:minimization	admin	created		447
-1744227339	73.235.164.232	E	glossary:parallel_processing	admin	citation added		309
-1744227675	73.235.164.232	e	glossary:quantum_computing	admin	citation		308
-1744227753	73.235.164.232	E	glossary:scalability	admin	citation		309
-1744227794	73.235.164.232	E	glossary:supercomputer	admin	citation		310
-1744227822	73.235.164.232	E	glossary:supercomputer	admin			-1
-1744228079	73.235.164.232	E	glossary	admin	Added CPU, GPU		112
 1744230721	73.235.164.232	E	glossary:quantum_computing	admin			-3
 1744230732	73.235.164.232	E	glossary:supercomputer	admin			-4
 1744230760	73.235.164.232	E	glossary:scalability	admin			-4
 1744230771	73.235.164.232	E	glossary:parallel_processing	admin			-4
+1744260265	73.235.164.232	E	glossary	admin	Added accuracy, active learning, agile		89
+1744260438	73.235.164.232	C	glossary:accuracy	admin	created		347
+1744260503	73.235.164.232	E	glossary	admin	added precision and recall		56
+1744260915	73.235.164.232	E	start	admin			180
+1744261567	73.235.164.232	C	sidebar:learning_paths:data_management_professionals	admin	created		904
+1744262079	73.235.164.232	E	glossary	admin	added Explainability & Transparency		68
+1744262128	73.235.164.232	C	glossary:transparency	admin	created		150
+1744262172	73.235.164.232	C	glossary:explainability	admin	created		129
+1744308718	73.235.164.232	E	sidebar:categories:data_management:data_lifecycle_management	admin			-243
+1744309164	73.235.164.232	E	sidebar:categories:data_management:data_lifecycle_management	admin			66
+1744310082	73.235.164.232	E	sidebar:learning_paths:data_management_professionals	admin			882
+1744310148	73.235.164.232	C	sidebar:categories:data_management:database_integrity	admin	created		141
+1744310163	73.235.164.232	C	sidebar:categories:data_management:data_catalog	admin	created		129
+1744310188	73.235.164.232	C	sidebar:categories:ethics:hipaa	admin	created		120
+1744310783	73.235.164.232	E	sidebar:learning_paths:data_management_professionals	admin	added overviews		402
+1744757260	73.235.164.232	E	sidebar:categories:data_management:data_steward	admin			808
+1744757340	73.235.164.232	E	sidebar:categories:data_management:data_owner	admin			933
+1744757422	73.235.164.232	E	sidebar:categories:data_management:data_in_transit	admin			1068
+1744757475	73.235.164.232	E	sidebar:categories:data_management:data_at_rest	admin			805
+1744758676	73.235.164.232	E	sidebar:categories:data_management:data_at_rest	admin			-2
+1744759543	73.235.164.232	E	sidebar:categories:data_management:data_at_rest	admin			-4
+1744759637	73.235.164.232	E	sidebar:learning_paths:data_management_professionals	admin			86
+1744760372	73.235.164.232	E	sidebar:categories:data_management:data_at_rest	admin			15
+1744760494	73.235.164.232	E	sidebar:learning_paths:data_management_professionals	admin			29
+1744760556	73.235.164.232	E	sidebar:categories:data_management:data_in_transit	admin			7
+1744760585	73.235.164.232	E	sidebar:categories:data_management:data_lifecycle_management	admin			7
+1744760617	73.235.164.232	E	sidebar:categories:data_management:data_owner	admin			9
+1744760644	73.235.164.232	E	sidebar:categories:data_management:data_steward	admin			8
+1744760854	73.235.164.232	E	sidebar:categories:ethics:controller	admin			7
+1744765768	73.235.164.232	E	sidebar:categories:data_management:cloud_storage	admin			10
+1744765879	73.235.164.232	E	sidebar:categories:data_management:cloud_storage	admin			13
+1744766419	73.235.164.232	E	sidebar:categories:data_management:database_integrity	admin			758
+1744766948	73.235.164.232	E	sidebar:categories:data_management:data_migration	admin			71
+1744767387	73.235.164.232	E	sidebar:categories:data_management:data_synchronization	admin			162
+1744767591	73.235.164.232	E	sidebar:categories:data_management:data_migration	admin			78
+1744768166	73.235.164.232	E	sidebar:categories:data_management:data_catalog	admin			585
+1744769320	73.235.164.232	E	sidebar:categories:data_management:data_interoperability	admin			496
+1744769344	73.235.164.232	E	sidebar:categories:data_management:data_interoperability	admin			64
+1744769561	73.235.164.232	E	sidebar:categories:data_management:data_retention_policy	admin			92
+1744769584	73.235.164.232	E	sidebar:categories:data_management:data_retention_policy	admin			10
+1744771021	73.235.164.232	E	sidebar:categories:data_management:disaster_recovery	admin			911
+1744771089	73.235.164.232	E	sidebar:categories:data_management:disaster_recovery	admin			52
+1744772768	73.235.164.232	E	sidebar:categories:data_management:personally_identifiable_information_pii	admin			953
+1744773889	73.235.164.232	E	sidebar:categories:data_management:data_lifecycle_management	admin			794
+1744773903	73.235.164.232	E	sidebar:categories:data_management:data_lifecycle_management	admin			-1
+1744773986	73.235.164.232	E	sidebar:categories:data_management:data_lifecycle_management	admin			-24
+1744774997	73.235.164.232	E	start	admin			308
+1744775501	73.235.164.232	E	glossary	admin			25
+1744775838	73.235.164.232	E	glossary:parallel_processing	admin			-17
+1744775867	73.235.164.232	C	sidebar:learning_paths:it_professionals	admin	created		845
+1744776631	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			1631
+1744776679	73.235.164.232	E	glossary:algorithm	admin			-17
+1744776736	73.235.164.232	C	glossary:cpu	admin	created		43
+1744776769	73.235.164.232	C	glossary:gpu	admin	created		36
+1744776912	73.235.164.232	E	sidebar:categories:data_management:data_at_rest	admin			-17
+1744776933	73.235.164.232	E	sidebar:categories:data_management:data_at_rest	admin			-7
+1744776959	73.235.164.232	E	sidebar:categories:data_management:data_catalog	admin			-26
+1744776981	73.235.164.232	E	glossary:data_encryption	admin			-19
+1744777007	73.235.164.232	E	sidebar:categories:data_management:data_in_transit	admin			-24
+1744777024	73.235.164.232	E	sidebar:categories:data_management:data_interoperability	admin			-25
+1744777042	73.235.164.232	E	sidebar:categories:data_management:data_migration	admin			-25
+1744777062	73.235.164.232	E	sidebar:categories:data_management:data_owner	admin			-25
+1744777077	73.235.164.232	E	sidebar:categories:data_management:data_retention_policy	admin			-25
+1744777094	73.235.164.232	E	sidebar:categories:data_management:data_steward	admin			-25
+1744777107	73.235.164.232	E	sidebar:categories:data_management:data_synchronization	admin			-26
+1744777123	73.235.164.232	E	sidebar:categories:data_management:database_integrity	admin			-24
+1744777181	73.235.164.232	E	sidebar:categories:ethics:controller	admin			-26
+1744777200	73.235.164.232	E	sidebar:categories:data_management:cloud_storage	admin			-28
+1744777221	73.235.164.232	E	sidebar:categories:data_management:disaster_recovery	admin			-25
+1744777240	73.235.164.232	E	sidebar:categories:data_management:personally_identifiable_information_pii	admin			-24
+1744777877	73.235.164.232	E	sidebar:categories:software:patch	admin			60
+1744777960	73.235.164.232	C	glossary:software_testing	admin	created		95
+1744778002	73.235.164.232	E	sidebar:categories:software:patch	admin			15
+1744778539	73.235.164.232	E	glossary:software_testing	admin			885
+1744778561	73.235.164.232	E	glossary:software_testing	admin			4
+1744780148	73.235.164.232	E	glossary:software_testing	admin			-27
+1744780188	73.235.164.232	E	glossary:software_testing	admin			-32
+1744780212	73.235.164.232	E	glossary:software_testing	admin			-98
+1744780758	73.235.164.232	C	sidebar:categories:software:user_acceptance_test	admin	created		531
+1744781729	73.235.164.232	C	sidebar:categories:software:open_source_software	admin	created		1543
+1744781787	73.235.164.232	E	sidebar:categories:software:gap_analysis	admin			-273
+1744782737	73.235.164.232	E	glossary:capacity_planning	admin			545
+1744783058	73.235.164.232	E	glossary:quantum_computing	admin			281
+1744783314	73.235.164.232	E	glossary:scalability	admin			370
+1744783419	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:agi	admin			-326
+1744783455	73.235.164.232	E	sidebar:categories:software:microsoft_azure	admin			-9
+1744783763	73.235.164.232	E	glossary:audit_logs	admin			618
+1744783769	73.235.164.232	E	glossary:audit_logs	admin			-17
+1744783921	73.235.164.232	D	sidebar:glossary:phishing_scams	admin	removed		-26
+1744784125	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin	[Level 5: IT Infrastructure] 		-77
+1744784364	73.235.164.232	E	sidebar:categories:software:downtime	admin			31
+1744784392	73.235.164.232	D	sidebar:categories:software:downtime	admin	removed		-451
+1744784418	73.235.164.232	E	glossary	admin			-21
+1744784424	73.235.164.232	C	glossary:downtime	admin	created		451
+1744784446	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			-15
+1744784459	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:ai	admin			-27
+1744787316	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			-92
+1744787449	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			0
+1744787471	73.235.164.232	C	glossary:agile	admin	created		17
+1744787903	73.235.164.232	E	glossary:algorithm	admin			403
+1744787937	73.235.164.232	E	glossary	admin			-64
+1744787959	73.235.164.232	E	glossary	admin			-44
+1744788319	73.235.164.232	E	glossary:parallel_processing	admin			745
+1744789005	73.235.164.232	E	glossary:supercomputer	admin			254
+1744789646	73.235.164.232	D	glossary:agile	admin	removed		-17
+1744790322	73.235.164.232	E	glossary:accuracy	admin			-91
+1744790717	73.235.164.232	C	glossary:precision	admin	created		546
+1744791767	73.235.164.232	C	glossary:recall	admin	created		613
+1744791782	73.235.164.232	E	glossary:recall	admin			-2
+1744791798	73.235.164.232	E	glossary:accuracy	admin			-2
+1744791839	73.235.164.232	E	glossary:precision	admin			44
+1744793386	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:ai	admin			502
+1744794433	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:ai	admin			348
+1744794468	73.235.164.232	E	glossary	admin			-38
+1744794480	73.235.164.232	E	glossary	admin			-78
+1744794555	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:ai	admin			58
+1744794581	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:ai	admin			52
+1744794646	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:ai	admin	added related term		28
+1744795225	73.235.164.232	C	glossary:generative_ai	admin	created		916
+1744795267	73.235.164.232	E	glossary	admin			-35
+1744796219	73.235.164.232	C	glossary:nlp	admin	created		604
+1744796291	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			-78
+1744796351	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			-58
+1744797232	73.235.164.232	E	sidebar:categories:ai_emerging_technologies:llm	admin			22
+1744797266	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			-48
+1744797446	73.235.164.232	D	glossary:cpu	admin	removed		-43
+1744797460	73.235.164.232	D	glossary:gpu	admin	removed		-36
+1744797518	73.235.164.232	E	sidebar:categories:software:technical_debt	admin			-186
+1744797622	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			-2
+1744797909	73.235.164.232	E	sidebar:categories:software:bug	admin			194
+1744797949	73.235.164.232	D	sidebar:categories:software:bug	admin	removed		-613
+1744797964	73.235.164.232	E	glossary	admin			-27
+1744797971	73.235.164.232	C	glossary:bug	admin	created		613
+1744798225	73.235.164.232	E	sidebar:categories:software:patch	admin			-21
+1744799498	73.235.164.232	E	glossary:firmware	admin			191
+1744799542	73.235.164.232	E	glossary	admin			-187
+1744829077	73.235.164.232	E	glossary	admin	removing categories - A terms		-52
+1744829096	73.235.164.232	E	glossary	admin			-35
+1744829118	73.235.164.232	C	glossary:agi	admin	created		1355
+1744829147	73.235.164.232	D	sidebar:categories:ai_emerging_technologies:agi	admin	moved to glossary		-1391
+1744829226	73.235.164.232	C	glossary:ai	admin	created		1458
+1744829239	73.235.164.232	D	sidebar:categories:ai_emerging_technologies:ai	admin	moved to glossary		-1439
+1744829396	73.235.164.232	E	glossary	admin			-116
+1744829436	73.235.164.232	C	glossary:cloud_storage	admin	created		1045
+1744829475	73.235.164.232	E	glossary	admin			-51
+1744829490	73.235.164.232	D	sidebar:categories:data_management:cloud_storage	admin	removed		-1119
+1744829533	73.235.164.232	C	glossary:california_consumer_privacy_act	admin	created		225
+1744829546	73.235.164.232	D	sidebar:categories:ethics:california_consumer_privacy_act	admin	removed		-592
+1744829644	73.235.164.232	E	glossary	admin			-86
+1744829749	73.235.164.232	C	glossary:consent	admin	created		1425
+1744829779	73.235.164.232	E	glossary:consent	admin			1
+1744829787	73.235.164.232	D	sidebar:categories:ethics:consent	admin	removed		-1696
+1744829831	73.235.164.232	C	glossary:controller	admin	created		3633
+1744829841	73.235.164.232	D	sidebar:categories:ethics:controller	admin	removed		-3708
+1744829889	73.235.164.232	C	glossary:data_at_rest	admin	created		971
+1744829894	73.235.164.232	D	sidebar:categories:data_management:data_at_rest	admin	removed		-1033
+1744829914	73.235.164.232	C	glossary:data_catalog	admin	created		627
+1744829921	73.235.164.232	D	sidebar:categories:data_management:data_catalog	admin	removed		-688
+1744830037	73.235.164.232	E	glossary	admin			-239
+1744830088	73.235.164.232	C	glossary:data_in_transit	admin	created		1252
+1744830099	73.235.164.232	D	sidebar:categories:data_management:data_in_transit	admin	moved to glossary		-1310
+1744830139	73.235.164.232	C	glossary:data_interoperability	admin	created		799
+1744830150	73.235.164.232	D	sidebar:categories:data_management:data_interoperability	admin	moved to glossary		-810
+1744830173	73.235.164.232	C	glossary:data_lifecycle_management	admin	created		2066
+1744830202	73.235.164.232	D	sidebar:categories:data_management:data_lifecycle_management	admin	moved to glossary		-2139
+1744830240	73.235.164.232	C	glossary:data_migration	admin	created		808
+1744830249	73.235.164.232	D	sidebar:categories:data_management:data_migration	admin	removed		-846
+1744830377	73.235.164.232	E	glossary	admin			-287
+1744830424	73.235.164.232	C	glossary:data_owner	admin	created		1060
+1744830439	73.235.164.232	D	sidebar:categories:data_management:data_owner	admin	moved to glossary		-1151
+1744830499	73.235.164.232	C	glossary:data_retention_policy	admin	created		753
+1744830509	73.235.164.232	D	sidebar:categories:data_management:data_retention_policy	admin	moved to glossary		-852
+1744830554	73.235.164.232	C	glossary:data_steward	admin	created		972
+1744830560	73.235.164.232	D	sidebar:categories:data_management:data_steward	admin	moved to glossary		-1062
+1744830605	73.235.164.232	C	glossary:data_synchronization	admin	created		588
+1744830611	73.235.164.232	D	sidebar:categories:data_management:data_synchronization	admin	moved to glossary		-621
+1744830640	73.235.164.232	E	glossary	admin			-4
+1744830661	73.235.164.232	C	glossary:data_integrity	admin	created		830
+1744830669	73.235.164.232	E	glossary:data_integrity	admin			3
+1744830676	73.235.164.232	D	sidebar:categories:data_management:database_integrity	admin	moved to glossary		-875
+1744830730	73.235.164.232	C	glossary:disaster_recovery	admin	created		1115
+1744830738	73.235.164.232	D	sidebar:categories:data_management:disaster_recovery	admin	moved to glossary		-1179
+1744830830	73.235.164.232	E	glossary	admin			-92
+1744830851	73.235.164.232	C	glossary:gap_analysis	admin	created		739
+1744830862	73.235.164.232	D	sidebar:categories:software:gap_analysis	admin	moved to glossary		-772
+1744830879	73.235.164.232	D	sidebar:categories:ethics:hipaa	admin	moved to glossary		-120
+1744830944	73.235.164.232	C	glossary:impersonation	admin	created		6152
+1744830954	73.235.164.232	D	sidebar:categories:ethics:impersonation	admin	moved to glossary		-6262
+1744831078	73.235.164.232	E	glossary	admin			-231
+1744831143	73.235.164.232	C	glossary:llm	admin	created		815
+1744831152	73.235.164.232	D	sidebar:categories:ai_emerging_technologies:llm	admin	removed		-852
+1744831182	73.235.164.232	C	glossary:microsoft_azure	admin	created		533
+1744831191	73.235.164.232	D	sidebar:categories:software:microsoft_azure	admin	moved to glossary		-603
+1744831237	73.235.164.232	C	glossary:open_source_software	admin	created		1548
+1744831242	73.235.164.232	D	sidebar:categories:software:open_source_software	admin	moved to glossary		-1543
+1744831260	73.235.164.232	C	glossary:patch	admin	created		504
+1744831266	73.235.164.232	D	sidebar:categories:software:patch	admin	moved to glossary		-504
+1744831297	73.235.164.232	C	glossary:personally_identifiable_information_pii	admin	created		1271
+1744831309	73.235.164.232	D	sidebar:categories:data_management:personally_identifiable_information_pii	admin	moved to glossary		-1376
+1744831449	73.235.164.232	E	glossary	admin			-203
+1744831568	73.235.164.232	C	glossary:privacy	admin	created		4820
+1744831579	73.235.164.232	D	sidebar:categories:ethics:privacy	admin	moved to glossary		-5044
+1744831624	73.235.164.232	C	glossary:processor	admin	created		2939
+1744831629	73.235.164.232	D	sidebar:categories:ethics:processor	admin	moved to glossary		-3012
+1744831667	73.235.164.232	C	glossary:protected_class	admin	created		7298
+1744831678	73.235.164.232	D	sidebar:categories:compliance:protected_class	admin	moved to glossary		-7382
+1744831749	73.235.164.232	C	glossary:technical_debt	admin	created		247
+1744831754	73.235.164.232	D	sidebar:categories:software:technical_debt	admin	moved to glossary		-247
+1744831774	73.235.164.232	C	glossary:user_acceptance_test	admin	created		531
+1744831781	73.235.164.232	D	sidebar:categories:software:user_acceptance_test	admin	moved to glossary		-531
+1744831906	73.235.164.232	E	sidebar:learning_paths:data_management_professionals	admin			-402
+1744831976	73.235.164.232	E	sidebar:learning_paths:it_professionals	admin			-216
+1744832065	73.235.164.232	D	sidebar:categories:ai_emerging_technologies	admin	removed		-119
+1744832087	73.235.164.232	D	sidebar:categories:software:capacity_planning	admin	moved to glossary		-451
+1744832106	73.235.164.232	D	sidebar:categories:software:cloud_migration	admin	removed		-413
+1744832114	73.235.164.232	D	sidebar:categories:software	admin	removed		-348
+1744832119	73.235.164.232	D	sidebar:categories:data_management	admin	removed		-658
+1744832125	73.235.164.232	D	sidebar:categories:security	admin	removed		-150
+1744832129	73.235.164.232	D	sidebar:categories:ethics	admin	removed		-307
+1744832134	73.235.164.232	D	sidebar:categories:compliance	admin	removed		-228
+1744832145	73.235.164.232	D	sidebar:categories	admin	removed		-278
+1744832367	73.235.164.232	C	sidebar	admin	created		200
+1744832465	73.235.164.232	E	sidebar	admin			125
+1744832777	73.235.164.232	E	sidebar	admin			3
+1744832865	73.235.164.232	E	sidebar	admin			-16
+1744832896	73.235.164.232	E	sidebar	admin			14
+1744832997	73.235.164.232	E	start	admin	replaced categories with learning paths		13
+1744833055	73.235.164.232	E	glossary:data_at_rest	admin			29
+1744833219	73.235.164.232	E	glossary:data_lifecycle_management	admin			140
+1744833279	73.235.164.232	E	glossary:data_lifecycle_management	admin			37
+1744833323	73.235.164.232	E	glossary:algorithm	admin			-61
+1744833352	73.235.164.232	E	glossary:supercomputer	admin			-75
+1744833362	73.235.164.232	E	glossary:supercomputer	admin			2
+1744833376	73.235.164.232	E	glossary:quantum_computing	admin			-78
+1744833404	73.235.164.232	E	glossary:capacity_planning	admin			-35
+1744833426	73.235.164.232	E	glossary:scalability	admin			-30
+1744833483	73.235.164.232	E	glossary:software_testing	admin			35
+1744833509	73.235.164.232	E	glossary:user_acceptance_test	admin			31
+1744833559	73.235.164.232	E	glossary:downtime	admin			30
+1744833646	73.235.164.232	E	glossary:ai	admin			70
+1744833710	73.235.164.232	E	glossary:generative_ai	admin			21
+1744833731	73.235.164.232	E	glossary:nlp	admin			-35
+1744833812	73.235.164.232	E	glossary:audit_logs	admin			-105
+1744833819	73.235.164.232	E	glossary:audit_logs	admin			4
+1744834303	73.235.164.232	E	start	admin			385
+1744834405	73.235.164.232	E	start	admin	added links to some other government dictionaries for reference		127

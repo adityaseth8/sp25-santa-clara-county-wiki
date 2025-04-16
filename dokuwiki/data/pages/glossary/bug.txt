@@ -1,0 +1,9 @@
+===== Bug =====
+
+A flaw in a software system that prevents it from running as intended. Bugs may be caused by mistakes in the code, unexpected user input, or issues with how different parts of a system interact.
+
+=== How it is used ===
+For example, there may be a bug in a data processing system, where an automated finance report shows incorrect budget data. This error may occur if the system pulls data from the wrong sources. It takes thorough software testing to identify bugs. Bugs may be fixed temporarily through software patches.
+
+=== Related Terms ===
+[[glossary::Patch]], [[glossary::Software Testing]]

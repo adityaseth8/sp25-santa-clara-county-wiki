@@ -1,12 +1,12 @@
 ===== Scalability =====
 
-== Overview ==
-The ability to increase or decrease the computational resources required to execute a varying volume of tasks, processes, or services. Scalability allows systems to tackle more complex or larger scale problems effectively.<sup>1</sup>
+The ability to increase or decrease the computational resources required to execute a varying volume of tasks, processes, or services. Scalability allows systems to tackle more complex or larger scale problems effectively.<sup>1</sup> This helps keep services fast and reliable, even when demand changes.
 
-== Related Terms ==
+=== How it is used ===
+A key application of scalability is in web applications. The County can scale up or down computing power for web applications based on the demand. Scalability is a key factor in capacity planning, ensuring that resources are available when needed while optimizing the cost of operation.
 
-== Related Categories ==
-[[sidebar::categories::Software]]
+=== Related Terms ===
+[[glossary::Capacity Planning]]
 
 
 ----

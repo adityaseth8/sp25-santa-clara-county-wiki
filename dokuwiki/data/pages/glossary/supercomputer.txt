@@ -1,13 +1,12 @@
 ===== Supercomputer =====
 
-== Overview ==
 Powerful computers that are able to model and simulate complex, dynamic systems that would be too expensive, impractical, or impossible to physically demonstrate.<sup>1</sup>
 
+=== How it is Used ===
+Currently the County doesn't directly use supercomputers, however there may be departments which use 3rd party software that runs on supercomputers. This could possibly include government labs using supercomputers to model earthquakes or fires. 
 
-== Related Terms ==
+=== Related Terms ===
 
-== Related Categories ==
-[[sidebar::categories::AI/Emerging Technologies]]
 
 
 ----

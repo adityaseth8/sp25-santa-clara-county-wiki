@@ -1,0 +1,11 @@
+===== Natural Language Processing (NLP) =====
+NLP allows computers to understand, process, and work with human languages such as English. 
+
+=== How it is Used ===
+NLP is often used in companies to translate languages, pull important information from documents, or even help summarize long reports. Furthermore, NLP is used in large language models like Microsoft Copilot, which County employees may have access to.
+
+=== Resources ===
+[[https://www.ibm.com/think/topics/natural-language-processing]]
+
+=== Relevant Terms ===
+[[glossary::LLM]], [[glossary::Generative AI]]

@@ -1,42 +1,42 @@
 Welcome to your new DokuWiki
 County of Santa Clara Technology Dictionary
 DokuWiki
-
+Learning Paths
 
 Formatting Syntax
 
 
 
-Categories
-AI and Emerging Technologies
 
-Artificial General Intelligence (AGI)
-Large Language Models (LLMs)
-Data Management
-Cloud Storage
+
+
+
+
+
+
 
 Glossary
-Data Lifecycle Management
-Software
-Microsoft Azure
-Gap Analysis
-Capacity Planning
-Bug
-Patch
-Cloud Migration
-Downtime
-Technical Debt
-Security
-Ethics
-Compliance
-California Consumer Privacy Act
-Privacy
-Consent
-Controller
-Processor
-Impersonation
-Phishing Scams
-Protected Class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Data Encryption
@@ -44,19 +44,69 @@ Parallel Processing
 Quantum Computing
 Scalability
 Supercomputer
-Data at Rest
-Data in Transit
-Data Migration
-Data Retention Policy
-Disaster Recovery
-Data Owner
-Data Steward
-Personally Identifiable Information (PII)
+
+
+
+
+
+
+
+
 Algorithm
 Deep Learning
 Firmware
 Capacity Planning
-Data Interoperability
-Data Synchronization
+
+
 Audit Logs
 Minimization
+Accuracy
+Learning Path: Data Management Professionals
+Transparency
+Explainability
+
+
+
+Learning Path: IT Professionals
+
+
+Software Testing
+
+
+Downtime
+
+Precision
+Recall
+Generative Artificial Intelligence (Gen AI)
+Natural Language Processing (NLP)
+Bug
+Artificial General Intelligence (AGI)
+Artificial Intelligence
+Cloud Storage
+California Consumer Privacy Act
+Consent
+Controller
+Data at Rest
+Data Catalog
+Data in Transit
+Data Interoperability
+Data Lifecycle Management
+Data Migration
+Data Owner
+Data Retention Policy
+Data Steward
+Data Synchronization
+Data Integrity
+Disaster Recovery
+Gap Analysis
+Impersonation
+Large Language Models (LLMs)
+Microsoft Azure
+Open Source Software (OSS)
+Patch
+Personally Identifiable Information (PII)
+Privacy
+Processor
+Protected Class
+Technical Debt
+User Acceptance Test (UAT)

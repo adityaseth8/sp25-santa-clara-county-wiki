@@ -1,0 +1,10 @@
+===== Downtime =====
+
+Period of time where a system is unavailable for its intended use due to system failures, ongoing software updates, or other unexpected issues.
+
+=== How it is Used ===
+Sometimes, downtime is planned, such as during the scheduled maintenance of a web application. The County's IT Strategic Plan FY24-26 outlines a goal of having 99.95% uptime of infrastructure to ensure County services remain accessible.  
+
+
+=== Related Terms ===
+[[glossary::Data Migration]]

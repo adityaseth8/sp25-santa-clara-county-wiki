@@ -1,0 +1,14 @@
+===== Data in Transit =====
+
+Data in transit refers to the movement of data from one location to another over the internet or a private network. This includes actions such as sending email attachments, uploading information to a web application, transferring data between databases, or collecting user-submitted data from a website into a county system.
+
+=== How it is used ===
+The County of Santa Clara handles a large volume of data daily through various transactions. These include data exchanges between the county and external individuals or vendors, data shared between different county agencies, and data transferred between individuals within the same county agency.
+
+Protecting data in transit is often more challenging than protecting data at rest. To safeguard it, secure protocols such as HTTPS, SSL, and TLS are commonly used. These create encrypted connections between the sender and receiver, similar to having a secure phone line for a private conversation. Additionally, data itself may be encrypted during transmission to further reduce the risk of interception or tampering.
+
+=== Related Terms ===
+[[glossary::Data at Rest]]
+
+=== Resources ====
+[[https://www.akeyless.io/secrets-management-glossary/data-at-rest-vs-data-in-transit/]]

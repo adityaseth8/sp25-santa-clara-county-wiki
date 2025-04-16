@@ -1,0 +1,20 @@
+===== Artificial Intelligence =====
+Type of technology that allows machines and software to do tasks that usually require human intelligence — like understanding language, recognizing patterns, or making decisions.
+
+=== How it is Used ===
+The County uses AI in various endeavors, including identifying racial covenants in historical housing documents. AI helps scan and analyze large volumes of records quickly, spotting key terms and patterns that would take humans much longer to review.
+
+=== FAQ: AI vs Algorithm ===
+An [[:glossary::algorithm]] is a set of instructions that are followed to complete a specific task. It doesn't learn or improve its function over time.
+
+However, AI learns from data to get better at tasks over time without a programmer needing to explicitly alter instructions. 
+
+For example, an algorithm can follow a set of instructions to sort a list of names in an alphabetical order. Whereas, AI can predict which names are more likely to be picked by a specific user based on past user behavior.
+
+=== Resources ===
+[[https://www.youtube.com/watch?v=4NsilUpnRY0&ab_channel=Microsoft| Animated Guide to AI - Microsoft]]   \\ 
+[[https://news.santaclaracounty.gov/stanford-reglab-princeton-and-county-santa-clara-collaborate-use-ai-identify-racial-covenants]]   \\  
+[[https://www.sccoe.org/resources/AI/Pages/default.aspx|Santa Clara County Office of Education - AI Toolkit]]    \\
+
+=== Related Terms ===
+[[glossary::Generative AI]], [[glossary::agi|Artificial General Intelligence]], [[glossary::LLM]]

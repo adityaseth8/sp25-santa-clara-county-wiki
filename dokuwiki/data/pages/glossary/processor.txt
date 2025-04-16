@@ -1,0 +1,28 @@
+===== Processor =====
+
+=== Definition 1 === 
+A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+
+=== Definition 2 ===
+Any operation or set of operations that are performed on personal information or on sets of personal information, whether or not by automated means.
+
+=== Brief History ===
+The concept of a "data processor" is integral to data protection laws, particularly the European Union's General Data Protection Regulation (GDPR). The GDPR, which came into effect in May 2018, defines a data processor as an entity that processes personal data on behalf of the data controller [1]. This distinction was established to delineate the roles and responsibilities in data processing activities, ensuring that both controllers and processors adhere to compliance obligations [2]. Historically, data processing has evolved from manual methods to sophisticated electronic systems, significantly impacting how data is managed and protected [3].
+
+=== AI Risk ===
+The integration of artificial intelligence (AI) into data processing activities introduces new risks that data controllers must manage. AI systems can pose risks related to bias, privacy, security, and accountability. For example, AI algorithms may inadvertently perpetuate biases present in training data, leading to unfair outcomes [5]. Additionally, the complexity of AI systems can make it challenging to ensure transparency and explainability, which are critical for maintaining trust and compliance with data protection regulations [4]. To address these risks, frameworks such as the NIST AI Risk Management Framework provide guidelines for identifying and mitigating AI-related risks.
+
+=== A Closer Look: Santa Clara County ===
+In Santa Clara County, the definition of a data processor is relevant to various public and private entities that handle personal data. For example, the County's IT infrastructure management involves data processing activities where third-party vendors may act as data processors. These entities must comply with applicable data protection laws, ensuring the security and proper handling of personal data.
+
+=== Further Reading ===
+[1] [[https://www2.deloitte.com/us/en/insights/topics/digital-transformation/four-emerging-categories-of-gen-ai-risks.html | Managing gen AI risks - Deloitte Insights]]  \\
+[2] [[https://www.ibm.com/think/insights/ai-risk-management | Risk Management in AI - IBM]]  \\
+[3] [[https://www.trinetix.com/insights/ai-in-risk-management-building-stronger-resilience-in-2025 | AI in Risk Management: Building Stronger Resilience in 2025 - Trinetix]]  \\
+[4] [[https://365datascience.com/trending/history-of-data/ | History of Data: Ancient Times to Modern Day – 365 Data Science]]  \\
+[5] [[https://365datascience.com/trending/history-of-data/ | History of Data: Ancient Times to Modern Day – 365 Data Science]]  \\
+
+=== Related Terms ===
+
+
+

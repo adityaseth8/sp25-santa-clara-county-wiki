@@ -1,0 +1,18 @@
+===== Data at Rest =====
+
+Data at rest refers to data that is stored on a physical or cloud-based system and is not actively being used or transferred. This can include data stored on hard drives, flash drives, databases, archives, servers, and other storage media.
+
+=== How it is Used ===
+The County of Santa Clara holds a significant amount of data at rest, such as property records, medical records, and other types of sensitive information. Over time, large volumes of data have accumulated across various storage systems, including physical servers and cloud-based databases.
+
+It is critical to protect data at rest to prevent data breaches and malicious activity. To safeguard this data, various security measures are implemented, including encryption and strict access control policies that limit who can view or modify the data.
+
+
+=== Resources ===
+[[https://www.akeyless.io/secrets-management-glossary/data-at-rest-vs-data-in-transit/]]
+
+
+=== Related Terms===
+[[glossary:Data in Transit]]
+
+

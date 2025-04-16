@@ -1,0 +1,11 @@
+===== User Acceptance Test (UAT) =====
+The final phase of the software testing process where users test the software to make sure it works as intended and meets business needs.
+
+=== How it is Used ===
+The user acceptance test is often completed before deploying new software for the public and/or internal departments to use. County IT employees may test software in an user environment to ensure it works well. 
+
+=== Resources ===
+[[https://www.splunk.com/en_us/blog/learn/user-acceptance-testing-uat.html]]
+
+=== Related Terms ===
+[[glossary::Software Testing]]

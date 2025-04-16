@@ -1,10 +1,11 @@
 ===== Algorithm =====
 
-=== Overview ===
-A set of computational rules to be followed to solve a mathematical problem. More recently, the term has been adopted to refer to a process to be followed, often by a computer.
+A set of instructions that can be followed by a software program or person to complete a specific task. Algorithms can be used to complete many tasks, such as performing calculations, sorting data, and finding information.
+
+=== How it is Used ===
+Algorithms are used in many of the County's systems to automate tasks. For example, a search algorithm within a County website helps users find relevant information quickly. Another broader example is a recommendation algorithm, like the one used by YouTube, which suggests related videos and content based on your viewing history.
+
 
 === Related Terms ===
 
-=== Related Categories ===
-[[sidebar::categories::Software]]
 

@@ -1,0 +1,3 @@
+===== Technical Debt =====
+
+The cost of taking shortcuts or quick fixes during software development. These shortcuts may help deliver a project faster in the short term, but they often lead to more problems, bugs, or time-consuming fixes later on.

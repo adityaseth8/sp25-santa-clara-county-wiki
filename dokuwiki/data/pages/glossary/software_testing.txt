@@ -1,0 +1,17 @@
+===== Software Testing =====
+A process which involves checking a software product to ensure it works the way it is supposed to.
+
+=== How it is Used ===
+Software is often tested before they are made available to use. Testing software allows developers to identify and fix potential issues before the user encounters them. There are different types of testing, including:
+
+  * Performance testing – checks how well the software handles different levels of use
+  * Security testing – makes sure the software is protected from cyber threats
+  * Acceptance testing – checks if the whole system works as expected
+
+There are many other types of testing as well. You can learn more in the IBM article listed in the Resources section.
+
+=== Resources ===
+[[https://www.ibm.com/think/topics/software-testing]]
+
+=== Related Terms ===
+[[glossary::User Acceptance Test]]

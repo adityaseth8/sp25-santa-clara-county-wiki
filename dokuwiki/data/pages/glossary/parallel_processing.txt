@@ -1,14 +1,14 @@
 ===== Parallel Processing =====
 
-== Definition ==
 A method in computing of running two or more processors, or CPUs, to handle separate parts of an overall task. Breaking up different parts of a task among multiple processors helps reduce the amount of time it takes to run a program. Any system that has more than one CPU can perform parallel processing, as well as multicore processors, which are commonly found on computers today.<sup>1</sup>
 
-== Related Terms ==
+=== How it is Used ===
+One use case is analyzing large amounts of data more quickly. For example, if the County needs to process thousands of public health records, parallel processing can divide the data across processors and run the analysis in a fraction of the time. This helps departments make faster decisions and improve public services.
+
+Some drawbacks of parallel processing include higher costs due to the need for more computing resources, and greater complexity when designing and managing parallel algorithms. It’s also harder to use parallel processing in situations where data needs to be handled in a sequential order, because each record depends on the one before it. For example, processing a series of financial transactions where each step affects the next can't easily be done in parallel.
+
+=== Related Terms ===
 [[glossary::CPU]], [[glossary::GPU]]
-
-== Related Categories ==
-[[sidebar::categories::software| Software]]
-
 
 ----
 <sup>1</sup> Ahn, J., Sharma, K., Berlie, A., Gong, E., Kerslake, B., Mahajan, A., Moreau, M., Nard, C., Offorjebe, U. A., Washington, V. (2024). //The Current State of U.S. Government Supercomputer Capacities and Utilization.// Paragon Policy Fellowship, 2024 Fall Cohort Energy Team.

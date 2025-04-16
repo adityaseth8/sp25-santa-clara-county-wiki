@@ -1,0 +1,10 @@
+===== Data Synchronization =====
+
+The process of keeping data consistent and up to date across different systems or storage locations. This is critical in places where data is used by multiple departments or services, as it helps to avoid errors and confusion.
+
+=== How it is Used ===
+Data synchronization helps keeps departments stay aligned. For example, if a file is updated in a local folder, the changes should also appear in the cloud version (like Dropbox or OneDrive), so that everyone has access to the latest version.
+
+=== Related Terms ===
+[[glossary::Data Interoperability]]
+

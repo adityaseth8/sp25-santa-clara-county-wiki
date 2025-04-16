@@ -1,10 +1,14 @@
 ===== Capacity Planning =====
 
-=== Overview ===
-Process of estimating the resources needed to keep a service or system running smoothly.
+Process of estimating the resources needed to keep a service or system running smoothly. The goal is to make sure the County has enough resources to meet demand without overpaying for resources.
+
+=== How it is Used ===
+One example is provisioning server space and bandwidth to handle web traffic for an application. Certain County applications may see high demand at specific times—such as during property tax deadlines, emergency response events, or election periods. Capacity planning helps IT teams prepare in advance so residents don’t experience slowdowns or outages.
 
 === Related Terms ===
+[[glossary::Scalability]]
 
-=== Related Categories ===
-[[sidebar::categories::Software]]
+=== Resources ===
+[[https://www.ibm.com/think/topics/capacity-planning]]
+
 

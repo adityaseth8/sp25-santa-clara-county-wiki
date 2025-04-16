@@ -1,0 +1,15 @@
+===== Data Interoperability =====
+
+Data formatted in a way which allows it be easily shared, understood, and used across different systems in different organizations. To achieve data interoperability, 
+data must follow shared standards so that all systems can interpret the data in the same way. 
+ 
+=== How it is Used === 
+
+In the County, different departments must often work together to provide services to county residents. This involves aligning their systems to exchange and understand each other's data accurately. For example, the Sherriff's Office and Superior Court may share data like arrest records and court hearing dates which each other. 
+
+=== Resources ===
+[[https://www.nnlm.gov/guides/data-glossary/data-interoperability]]
+
+=== Related Terms ===
+[[glossary::Data Synchronization]]
+

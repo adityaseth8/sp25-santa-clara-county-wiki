@@ -1,0 +1,50 @@
+======Learning Path: Data Management Professionals======
+
+Welcome! This learning path is designed for County of Santa Clara professionals who are interested in learning more about data management best practices and key concepts. Please consult a Subject Matter Expert (SME) for clarification on these topics, as this wiki may not cover all necessary details.
+
+----
+
+===== Level 1: Foundational Concepts =====
+
+This section covers some of the core principles of data management along with the key roles involved in this process.
+
+{{page>glossary:data_lifecycle_management&firstseconly&readmore}}
+
+{{page>:glossary:data_at_rest&firstseconly&readmore}}
+
+{{page>glossary:data_in_transit&firstseconly&readmore}}
+
+{{page>glossary:data_owner&firstseconly&readmore}}
+
+{{page>glossary:data_steward&firstseconly&readmore}}
+
+{{page>glossary:controller&firstseconly&readmore}}
+
+
+===== Level 2: Infrastructure & Maintenance =====
+
+A short overview of key concepts and infrastructure involved in storing, managing, and moving data across systems.
+
+{{page>glossary:cloud_storage&firstseconly&readmore}}
+
+{{page>glossary:data_integrity&firstseconly&readmore}}
+
+{{page>glossary:data_catalog&firstseconly&readmore}}
+
+{{page>glossary:data_migration&firstseconly&readmore}}
+
+{{page>glossary:data_synchronization&firstseconly&readmore}}
+
+{{page>glossary:data_interoperability&firstseconly&readmore}}
+
+===== Level 3: Data Governance and Compliance =====
+A brief introduction into some of the policies and safeguards employed to ensure County data is stored responsibly, recoverable in emergencies, and maintained in compliance with Federal, State, and County regulations.
+
+{{page>glossary:data_retention_policy&firstseconly&readmore}}
+
+{{page>glossary:disaster_recovery&firstseconly&readmore}}
+
+{{page>glossary:personally_identifiable_information_pii&firstseconly&readmore}}
+
+{{page>glossary:hipaa&firstseconly&readmore}}
+

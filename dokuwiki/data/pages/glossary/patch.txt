@@ -1,0 +1,12 @@
+===== Patch =====
+
+A small software update that fixes bugs (functionality issues), security issues, or adds new features.
+
+=== How it is Used ===
+The County may send out patches as quick fixes to public-facing tools and services, like the County’s Public Permit Portal. Patches are often temporary solutions meant to keep things running smoothly until a more complete update can be made later.
+
+=== Resources ===
+[[https://csrc.nist.gov/glossary/term/patch]]
+
+=== Related Terms === 
+[[glossary::Bug]] 

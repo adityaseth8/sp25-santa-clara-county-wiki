@@ -1,0 +1,19 @@
+===== Personally Identifiable Information (PII) =====
+
+Any data that can be used alone or with other information to identify an individual. This includes personal data like the first and last name, mailing address, date of birth, gender, race, religion, driver's license number, social security number, and medical records. 
+
+Some types of PII are direct identifiers because they are unique to one person. An example is someone's driver's license number. Other types of PII are called indirect identifiers, meaning they are not unique to one person. An example is date of birth. Multiple indirect identifiers strung together could identify a person.
+
+=== How it is Used ===
+The County handles a lot of sensitive PII, such as court records, social services, and employee files, etc. Because PII is a common target in ransomware attacks and identity theft, it's critical safeguard it through practices such as encryption and access controls. 
+
+=== Interesting Fact ===
+87% of US citizens could be identified based on nothing more than their gender, ZIP code and date of birth <sup>1</sup>
+
+=== Related Terms ===
+
+
+
+----
+<sup>1</sup> L. Sweeney, Simple Demographics Often Identify People Uniquely. Carnegie Mellon University, Data
+Privacy Working Paper 3. Pittsburgh 2000. 

@@ -1,0 +1,11 @@
+===== Data Retention Policy =====
+
+A set of rules which determines how long data should be kept before it is archived or deleted. It applies to the final step of the data lifecycle. These rules ensure that data is not stored longer than necessary. 
+
+
+=== How it is Used ===
+For data in Azure, county employees can set custom rules with the Microsoft Azure Blob Storage Lifecycle Management tool to automatically archive or delete data based on the number of days since the data was created, last modified, or last accessed. Archiving infrequently accessed data limits the likelihood that an attacker can quickly retrieve it. Deleting obsolete data saves the County money on storage costs.
+
+=== Related Terms ===
+[[glossary::Data Lifecycle Management]]
+

@@ -1,95 +1,92 @@
 ===== Glossary =====
 
 ===A===
+  * [[.glossary::Accuracy]] 
   * [[.:glossary::algorithm | Algorithm ]]
-  * [[sidebar::categories::ethics::Algorithmic Bias | Algorithmic Bias]]
-  * [[sidebar::categories::AI/Emerging Technologies::agi | Artificial General Intelligence (AGI)]]
-  * [[sidebar::categories::AI/Emerging Technologies::AI|Artificial Intelligence (AI)]]
+  * [[.:glossary::Algorithmic Bias | Algorithmic Bias]]
+  * [[.:glossary::agi | Artificial General Intelligence (AGI)]]
+  * [[.:glossary::AI|Artificial Intelligence (AI)]]
   * [[.:glossary::Audit Logs]]
 
 ===B===
-  * [[sidebar::categories::software::Bug | Bug]]
+  * [[glossary::Bug]]
 
 ===C===
-  * [[sidebar::categories::ethics::California Consumer Privacy Act | California Consumer Privacy Act]]
+  * [[.:glossary::California Consumer Privacy Act]]
   * [[.:glossary::Capacity Planning]]
-  * [[.glossary::cpu | Central Processing Unit (CPU)]]
-  * [[sidebar::categories::ethics::CJIS Compliance Requirements | CJIS Compliance Requirements]]
-  * [[sidebar::categories::software::Cloud Migration | Cloud Migration]]
-  * [[sidebar::categories::data_management::cloud_storage | Cloud Storage]]
-  * [[sidebar::categories::ethics::Consent | Consent]]
-  * [[sidebar::categories::ethics::Controller | Controller]]
+  * [[.:glossary::CJIS Compliance Requirements | CJIS Compliance Requirements]]
+  * [[.:glossary::cloud_storage | Cloud Storage]]
+  * [[.:glossary::Consent | Consent]]
+  * [[.:glossary::Controller | Controller]]
 
 ===D===
-  * [[sidebar::categories::data_management::Data at Rest | Data at Rest]]
-  * [[sidebar::categories::data_management::Data Catalog | Data Catalog]]
-  * [[.:glossary::Data Encryption | Data Encryption ]]
-  * [[sidebar::categories::data_management::Data in Transit | Data in Transit]]
-  * [[sidebar::categories::data_management::Data Interoperability | Data Interoperability]]
-  * [[sidebar::categories::data_management::Data Lifecycle Management | Data Lifecycle Management]]
-  * [[sidebar::categories::data_management::Data Migration | Data Migration]]
-  * [[sidebar::categories::data_management::Data Owner | Data Owner ]]
-  * [[sidebar::categories::data_management::Data Retention Policy | Data Retention Policy ]]
-  * [[sidebar::categories::data_management::Data Steward | Data Steward ]]
-  * [[sidebar::categories::data_management::Data Synchronization | Data Synchronization ]]
-  * [[sidebar::categories::data_management::Database Integrity | Database Integrity]]
-  * [[.:glossary::Deep Learning | Deep Learning]]
-  * [[sidebar::categories::data_management::Disaster Recovery | Disaster Recovery]]
-  * [[sidebar::categories::software::Downtime | Downtime]]
+  * [[.:glossary::Data at Rest]]
+  * [[.:glossary::Data Catalog]]
+  * [[.:glossary::Data Encryption]]
+  * [[.:glossary::Data in Transit ]]
+  * [[.:glossary::Data Interoperability]]
+  * [[.:glossary::Data Lifecycle Management]]
+  * [[.:glossary::Data Migration]]
+  * [[.:glossary::Data Owner]]
+  * [[.:glossary::Data Retention Policy]]
+  * [[.:glossary::Data Steward]]
+  * [[.:glossary::Data Synchronization]]
+  * [[.:glossary::Data Integrity]]
+  * [[.:glossary::Disaster Recovery]]
+  * [[glossary::Downtime]]
 
 ===E===
-  * [[.:glossary::Encryption Algorithm | Encryption Algorithm]]
+  * [[.:glossary::Explainability]]
 ===F===
   * [[.:glossary::Firmware]]
 ===G===
-  * [[sidebar::categories::software::Gap Analysis | Gap Analysis]]
+  * [[.:glossary::Gap Analysis]]
   * [[.:glossary::Generative AI | Generative AI]]
-  * [[.glossary::gpu | Graphical Processing Unit (GPU)]]
+  * [[.:glossary::GDPR]]
 
 ===H===
-  * [[.:glossary::hashing | Hashing]]
-  * [[sidebar::categories::ethics::HIPAA | HIPAA]]
+  * [[.:glossary::HIPAA]]
 
 ===I===
-  * [[sidebar::categories::ethics::Impersonation | Impersonation]]
+  * [[.:glossary::Impersonation]]
 
 ===J===
 ===K===
 ===L===
-  * [[sidebar::categories::AI/Emerging Technologies::llm | Large Language Models (LLM)]]
+  * [[.:glossary::llm | Large Language Models (LLM)]]
 
 ===M===
-  * [[sidebar::categories::software::Microsoft Azure | Microsoft Azure]]
+  * [[.:glossary::Microsoft Azure]]
   * [[.:glossary::Minimization]]
 
 ===N===
   * [[.:glossary::nlp | Natural Language Processing (NLP)]]
 ===O===
-  * [[sidebar::categories::software::Open Source Software | Open Source Software]]
+  * [[.:glossary::Open Source Software]]
 
 ===P===
   * [[.:glossary::Parallel Processing | Parallel Processing]]
-  * [[sidebar::categories::software::Patch | Patch]]
-  * [[sidebar::categories::data_management::Personally Identifiable Information (PII)
-| Personally Identifiable Information (PII)]]
-  * [[sidebar::categories::ethics::Privacy | Privacy]]
-  * [[sidebar::categories::ethics::Processor | Processor]]
-  * [[sidebar::categories::compliance::Protected Class | Protected Class]]
+  * [[.:glossary::Patch]]
+  * [[.:glossary::Personally Identifiable Information (PII)]]
+  * [[.glossary::Precision]]
+  * [[.:glossary::Privacy]]
+  * [[.:glossary::Processor]]
+  * [[.:glossary::Protected Class]]
 
 ===Q===
-  * [[.:glossary::Quantum Computing | Quantum Computing]]
+  * [[.:glossary::Quantum Computing]]
 ===R===
+  * [[.:glossary::Recall]]
 ===S===
-  * [[.:glossary::Scalability | Scalability]]
-  * [[.:glossary::Service-Level Agreement]]
+  * [[.:glossary::Scalability]]
   * [[.:glossary::Software Testing]]
-  * [[.:glossary::Supercomputer | Supercomputer]]
+  * [[.:glossary::Supercomputer]]
 ===T===
-  * [[sidebar::categories::software::Technical Debt | Technical Debt]]
-  * [[.:glossary::Transport Layer Security | Transport Layer Security (TLS)]]
+  * [[.:glossary::Technical Debt]]
+  * [[.:glossary::Transparency]]
 
 ===U===
-  * [[sidebar::categories::software::User Acceptance Test | User Acceptance Test]]
+  * [[.:glossary::User Acceptance Test]]
 
 ===V===
 ===W===

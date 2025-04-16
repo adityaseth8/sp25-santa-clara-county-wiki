@@ -1,0 +1,13 @@
+===== Disaster Recovery =====
+
+A set of procedures set in place to help restore IT systems, data, and operations after a disruption. The goal is to prevent data loss and minimize downtime so that critical services can quickly return to normal.
+
+=== How it is Used ===
+As outlined in the County of Santa Clara's IT Strategic Plan FY24-26, the County aims to have 99.95% infrastructure uptime to ensure reliable support for core County business functions. A well constructed disaster recovery plan helps make this possible. It typically includes regular data backups, system testing, defined recovery objectives, communication strategies, and more. It prepares the County to respond to emergencies like cyberattacks, earthquakes, hardware failure, or other unexpected events.
+
+=== Resources ===
+[[https://www.ready.gov/business/emergency-plans/recovery-plan#:~:text=Developing%20an%20IT%20Disaster%20Recovery%20Plan&text=The%20plan%20should%20include%20a,replicate%20and%20reimage%20new%20hardware. | Ready.gov from US DHS - IT Disaster Recovery Plan]]
+
+=== Related Terms ===
+[[glossary::Data Lifecycle Management]]
+

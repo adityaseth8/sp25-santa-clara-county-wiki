@@ -1,0 +1,25 @@
+===== Open Source Software (OSS) =====
+Software that is free to use and alter. Open source software comes with a license that lets anyone view source code as long as they follow certain rules set by the Open Source Initiative.
+
+=== How it is Used ===
+The County may use open source software to help build internal tools, websites, or data dashboards. This helps reduce costs, increase transparency, and improve collaboration by building on shared, community-supported code. However, one must also be careful to review and monitor open source software for cybersecurity vulnerabilities, since its public nature means hackers can also study the code to find weaknesses.
+
+
+In order to qualify as open source software, 10 key principles must be followed:
+
+  - Free redistribution
+  - Source code must be easy to access
+  - Derived Works - You can modify and share your own versions of the software under the same license conditions
+  - Integrity of Author's Source Code - your modified version should not interfere with original author's intent
+  - No Discrimination Against Persons or Groups
+  - No Discrimination Against Fields of Endeavor - software can be used for any type of work
+  - Distribution of License - same rights to anyone who gets the software
+  - License Must Not Be Specific to a Product
+  - License Must Not Restrict Other Software - using the open source software shouldn't force changes to other programs the user has.
+  - License Must Be Technology-Neutral
+
+
+=== Resources ===
+[[https://opensource.org/osd]]
+
+=== Related Terms ===
